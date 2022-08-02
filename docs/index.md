@@ -9,3 +9,5 @@ nav_order: 0
 
 
 In F22, this will be the web site for Latin 101, section 1, at Holy Cross.
+
+On line: <https://neelsmith.github.io/greek101/>.
