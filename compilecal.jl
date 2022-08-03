@@ -10,9 +10,10 @@ sched = courseSchedule(calfile, topics)
 md = mdcalendar(sched)
 
 hdg = """---
-title: "Course schedule: Greek 101, section 1, F22"
+title: "Schedule"
 layout: page
 nav_order: 1
+has_children: true
 ---
 
 """
