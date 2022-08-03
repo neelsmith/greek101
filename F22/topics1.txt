@@ -5,13 +5,13 @@
 *no classes*
 [Introduction to course](../classes/intro/)
 
-[Nouns: further cases](../../../assignments/nouns2/)#
+[Accent](../classes/accent/)
 
-*scholarstrike*
+[Finite verbs](../classes/finiteverbs/)
 
-[Adjectives](../../../assignments/adjectives/)#
+[The aorist indicative](../classes/aorist/)
 
-[-ius adjectives](../../../assignments/adjectives-ius/)#
+[The imperfect indicative](../classes/imperfect/)
 
 [Demonstratives](../../../assignments/demonstratives/)#
 
