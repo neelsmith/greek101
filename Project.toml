@@ -2,4 +2,4 @@
 CourseCalendar = "ae603835-8fca-49e7-adf3-8bd54d23a0ba"
 
 [compat]
-CourseCalendar = "0.2"
+CourseCalendar = "0.3.1"
