@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Introduction to course
+title: The aorist indicative
 parent: "Module 1: the Greek verb"
 grand_parent: "Schedule"
-nav_order: 1
+nav_order: 4
 ---
 
-# Introduction to course
+# The aorist indicative

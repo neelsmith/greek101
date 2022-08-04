@@ -1,9 +1,10 @@
 ---
 layout: page
-title: Introduction to course
+title: Finite verbs
 parent: "Module 1: the Greek verb"
 grand_parent: "Schedule"
-nav_order: 1
+nav_order: 3
 ---
 
-# Introduction to course
+# Finite verbs
+

@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Introduction to course
+title: Accent
 parent: "Module 1: the Greek verb"
 grand_parent: "Schedule"
-nav_order: 1
+nav_order: 2
 ---
 
-# Introduction to course
+# Accent

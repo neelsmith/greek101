@@ -9,4 +9,17 @@ nav_order: 0
 
 - [daily schedule](./schedule)
 
-## Week at a glance
+## Week at a glance: Aug. 31 - Sept. 2
+
+### MWF classes
+
+- we learn the Greek alphabet, and accent system (covered  [here](https://hellenike.github.io/textbook/preliminaries/) in the Hellênikê textbook)
+
+
+### CBL
+
+- *no* CBL lab this week
+
+### Due dates
+
+- written homework due by 5:00 Sept. 1
