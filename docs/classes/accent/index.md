@@ -7,3 +7,7 @@ nav_order: 2
 ---
 
 # Accent
+
+- read in textbook
+- practice reading with accent
+- submit written homework:  your name spelled phonetically in ancient Greek

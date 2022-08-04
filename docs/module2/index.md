@@ -1,12 +1,12 @@
 ---
-title: "Module 1: the Greek verb"
+title: "Module 2: nouns and adjectives"
 layout: page
-nav_order: 1
+nav_order: 2
 has_children: true
 parent: "Schedule"
 ---
 
-# Module 1: the Greek verb
+# Module 2: nouns and adjectives
 
 Summary of extended assignments in module 1:
 
@@ -16,4 +16,5 @@ Summary of extended assignments in module 1:
 
 Regular homework assignments:
 
-- accents
+
+...
