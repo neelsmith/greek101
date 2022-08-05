@@ -5,24 +5,24 @@
 *no classes*
 [Introduction to course](../classes/intro/)
 
-[Accent](../classes/accent/)#**Written assignment for class due on Thurs. at 5:00**.
+✏️ [Accent](../classes/accent/)#**Written assignment for class due on Thurs. at 5:00**.
 
 
-[The aorist indicative](../classes/aorist/)
+✏️ [The aorist indicative](../classes/aorist/)
 
-Mastering verb forms: active, middle and passive voices of the aorist
-
-
-[The imperfect indicative](../classes/imperfect/)
+✏️ Mastering verb forms: active, middle and passive voices of the aorist
 
 
+✏️ [The imperfect indicative](../classes/imperfect/)
 
 
 
-Contract verbs
 
 
-The second aorist
+✏️ Contract verbs
+
+
+✏️ The second aorist
 
 Review of verb forms
 
@@ -38,15 +38,15 @@ Workshop composition 1
 
 ## Module 2: nouns and adjectives
 
-substantives and the article
+✏️ substantives and the article
 
-the genitive case
+✏️ the genitive case
 
-[Direct and indirect objects](../classes/dir-indir-objects/)
+✏️ [Direct and indirect objects](../classes/dir-indir-objects/)
 
 
 
-adjectives 
+✏️ adjectives 
 attributive and predicate expressions
 analyzing clauses
 
@@ -57,8 +57,8 @@ analyzing clauses
 
 
 Reading Workshop
-pronouns
-prepositions
+✏️ pronouns
+✏️ prepositions
 
 
 Composition Workshop
@@ -70,13 +70,13 @@ Ancient views on grammatical gender
 
 participles
 
-present participle
+✏️ present participle
 
 attributive and circumstantial participles
 
 
 
-aorist participles
+✏️ aorist participles
 
 Mastering participle forms
 
@@ -91,9 +91,9 @@ reading
 Subordination
 
 
-the optative mood
+✏️ the optative mood
 
-purpose clauses with past-tense verbs
+✏️ purpose clauses with past-tense verbs
 
 Mastering optative forms
 

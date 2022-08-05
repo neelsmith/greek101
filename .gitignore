@@ -3,3 +3,4 @@ docs/Gemfile
 *.lock
 _site
 docs/.jekyll-cache/
+.vscode/
