@@ -22,4 +22,5 @@ nav_order: 0
 
 ### Due dates
 
-- written homework due by 5:00 Sept. 1
+- initial survey due by 5:00, Aug. 30
+- written homework due by 5:00, Sept. 1
