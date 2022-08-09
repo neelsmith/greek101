@@ -10,7 +10,7 @@
 
 ✏️ [The aorist indicative](../classes/aorist/)
 
-✏️ Mastering verb forms: active, middle and passive voices of the aorist
+🗣️ Mastering verb forms: active, middle and passive voices of the aorist
 
 
 ✏️ [The imperfect indicative](../classes/imperfect/)
@@ -104,7 +104,7 @@ Mastering optative forms
 
 class
 class
-class
+🗣️ declamation
 
 
 class

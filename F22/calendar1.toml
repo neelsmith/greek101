@@ -22,7 +22,8 @@ fixedDates = [
   ["2022-12-13",  "Final examinations begin."],
 
 
-
+  ["2022-10-10",  "✏️ First reflection exercise."],
+  ["2022-12-07",  "✏️ Second reflection exercise."],
 
   ["2022-09-15",  "📜 Mastering unit 1 forms due."],
   ["2022-09-22",  "📜 Reading assignment 1 due."],
@@ -37,7 +38,7 @@ fixedDates = [
   ["2022-11-17",  "📜 Composition 3 due."],
 
 
-  ["2022-11-22",  "⚠️ **Last day to submit revisions of Module 1 assignments**."],
+  ["2022-10-21",  "⚠️ **Last day to submit revisions of Module 1 assignments**."],
   ["2022-12-02",  "⚠️ **Last day to submit revisions of Module 2 assignments**."],
   ["2022-12-12",  "⚠️ **Last day to submit revisions of Module 3 and 4 assignments**.."],
 ]
