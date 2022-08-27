@@ -20,6 +20,12 @@ Before coming to our first class meeting
 
 - we learn the Greek alphabet, and accent system
 
-https://hellenike.github.io/textbook/preliminaries/accent/
 
+### CBL
 
+- *no* CBL lab this week
+
+### Due dates
+
+- initial survey due by 5:00, Aug. 30
+- written homework due by 5:00, Sept. 1

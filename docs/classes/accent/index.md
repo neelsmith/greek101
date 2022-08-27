@@ -6,24 +6,30 @@ grand_parent: "Schedule"
 nav_order: 2
 ---
 
+
+https://hellenike.github.io/textbook/preliminaries/accent/
+
+
+
+
 # Accent
 
-1. Read the section "[Ancient Greek accents (τόνος)](https://hellenike.github.io/textbook/)" in your textbook.
+1. In your textbook, read section 3.2 "[Ancient Greek accents (τόνος)](https://hellenike.github.io/textbook/preliminaries/accent)."
 2. Practice reading aloud with accent.
-3. Submit the following written assignment by 5:00 on the day before class.
+
+
 
 ## Written assignment
 
-1. What are the three accents used in writing ancient Greek?
-2. Which accent(s) can appear on the final syllable of a Greek word (the ultima)?
-3. Which accent(s) can appear on the next to last syllable of a Greek word (the penult)?
-4. Which accent(s) can appear on the antepenult?
-5. Copy out each of the following words. If the accent conflicts with any of the basic rules of Greek accent, explain why it is wrong.
-    - ἄνθρωπος
-    - ἀνθρώπου
-    - Σὼστρατος 
-    - βουλή
-    - βουλὴ
-    - δώρον
-    - ποῖησις
-    - εἶδε
+
+Follow the instructions in [this on-line assignment to practice accent](https://hellenike.github.io/textbook/practice/module1/practice/accents/).  
+
+- write out the answers to questions 1-4 as complete sentences
+- follow the instructions for question 5 (including copying out each of the listed words).
+
+
+When you have completed the written assignment, use the Canvas Student app to scan and submit your work.
+
+Due: 5:00 pm the day before class.
+
+
