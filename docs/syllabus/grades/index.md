@@ -6,7 +6,7 @@ nav_order: 5
 ---
 
 
-# Course requirements and grades
+## Course requirements and grades
 
 You determine your own course grade by satisfactorily completing a number of assignments in three categories:
 
@@ -50,17 +50,17 @@ You will receive two grades for CBL lab work>
 ## Determination of final course grade
 
 
-Your course grade will be recorded from this table:
+Your course grade will be recorded from this table.  In the row for each grade, the numbers in each column represent the minimum number of points required in that category.
 
-| Course grade | Portfolio (out of 20) | Class preparation (out of 40) | CBL participation (out of 10) | CBL project (out of 6) |
+| Course grade | Portfolio (out of 20) | Class preparation (out of 40) | CBL participation (out of 10) | CBL project (out of 16) |
 | --- | --- | --- | --- | --- 
-| A | 20 | 38 |  10 | 6 | 
-| A- | 20 | 36 |  10 | 6 | 
-| B+ | 18 | 36 |  10 | 6 | 
-| B | 17 | 35 |  9 | 6 | 
-| B- | 16 | 34 |  9 | 5 | 
-| C+ | 15 | 34 |  9 | 4 | 
-| C | 14 | 33 |  8 | 4 | 
-| C- | 13 | 32 |  7 | 4 | 
-| D | 12 | 31 |  7 | 3 | 
+| A | 20 | 38 |  10 | 15 | 
+| A- | 20 | 36 |  10 | 15 | 
+| B+ | 18 | 36 |  10 | 14 | 
+| B | 17 | 35 |  9 | 13 | 
+| B- | 16 | 34 |  9 | 13 | 
+| C+ | 15 | 34 |  9 | 12 | 
+| C | 14 | 33 |  8 | 11 | 
+| C- | 13 | 32 |  7 | 10 | 
+| D | 12 | 31 |  7 | 8 | 
 

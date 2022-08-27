@@ -1,4 +1,6 @@
 #!/bin/sh
+OUTFILE=printable/syllabus.pdf
+INPUT=printable/syllabus.md
 
 PANDOC=`which pandoc`
 
@@ -8,5 +10,5 @@ echo Using $PANDOC and $JULIA
 $JULIA composite.jl
 echo "Created composite file. Now running pandoc."
 
-$PANDOC syllabus.md --from markdown -o syllabus.pdf --pdf-engine=tectonic -V paper:letter  -V classoption=oneside 
+$PANDOC $INPUT --from markdown -o $OUTFILE --pdf-engine=tectonic --template eisvogel -V paper:letter  -V classoption=oneside  -V 'sansfont:Brill' -V 'mainfont:Brill'
 

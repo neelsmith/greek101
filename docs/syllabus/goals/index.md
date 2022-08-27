@@ -5,4 +5,4 @@ parent:  Syllabus
 nav_order: 2
 ---
 
-# Goals and objectives
+## Goals and objectives

@@ -5,4 +5,4 @@ nav_order: 1
 has_children: true
 ---
 
-# Syllabus
+# Greek 101, section 1, F22: Syllabus
