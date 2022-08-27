@@ -10,7 +10,8 @@ nav_order: 0
 
 Welcome to the course web site for Greek 101, section 1.
 
-Before coming to our first class meeting 
+Please prepare for our first class meeting by completing this [assignment to learn the Greek alphabet](classes/intro/).
+
 
 
 
