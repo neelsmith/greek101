@@ -17,7 +17,7 @@ using UnifyJustTheDocs
 
 # Could set styled title here?
 ##hdrlines = ["---", "title: \"Greek 101, section1, F22: Syllabus\"", "---", ""]
-hdrlines = readlines("printable/syllabus-settings.yaml")
+hdrlines = readlines("printable/settings.yaml")
 hdr = join(hdrlines,"\n")
 
 # Create single markdown file
