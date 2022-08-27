@@ -6,6 +6,17 @@ has_children: true
 ---
 
 
+Deadlines to note:
+
+
+- ✏️ Class preparation includes written preparation to be submitted the previous day by 5:00 pm
+- 🗣️ Deadline for completing oral assignment in individual meeting outside of class
+- 📜  Portfolio assignment due
+- ⚠️ Last day to revise submissions for a course module
+
+
+
+
 ## Module 1: the Greek verb
 
 | Dates | Monday | Wednesday | Friday | Notes |

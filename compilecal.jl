@@ -16,6 +16,17 @@ nav_order: 1
 has_children: true
 ---
 
+
+Deadlines to note:
+
+
+- ✏️ Class preparation includes written preparation to be submitted the previous day by 5:00 pm
+- 🗣️ Deadline for completing oral assignment in individual meeting outside of class
+- 📜  Portfolio assignment due
+- ⚠️ Last day to revise submissions for a course module
+
+
+
 """
 
 open(joinpath(pwd(), "docs", "schedule", "index.md"), "w") do io
