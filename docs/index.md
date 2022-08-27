@@ -5,9 +5,21 @@ nav_order: 0
 ---
 
 
+
 # Greek 101-01, F'22: home page
 
+Welcome to the course web site for Greek 101, section 1.
 
-In F22, this will be the web site for Greek 101, section 1, at Holy Cross.
+Before coming to our first class meeting 
 
-On line: <https://neelsmith.github.io/greek101/>.
+
+
+## Week at a glance: Aug. 31 - Sept. 2
+
+### MWF classes
+
+- we learn the Greek alphabet, and accent system
+
+https://hellenike.github.io/textbook/preliminaries/accent/
+
+
