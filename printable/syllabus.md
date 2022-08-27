@@ -19,17 +19,36 @@ author: [Neel Smith]
 
 
 
-## CBL
-
-
-
-
 ## Goals and objectives
 
+Greek 101 is the first semester of an ambitious new two-semester sequence to introduce you to the study of ancient Greek.  Our curriculum is inspired by the Latin 101-102 sequence developed by several members of our department at Holy Cross, led by [Professor Machado](https://dominicmachado.github.io).
+
+  - Explain how language structures the world we live in
+  - Articulate how the Greek language has shaped and continues to shape structures of power in the modern world
+  - Read and pronounce Greek with confidence and accuracy
+  - Analyze syntax and sentence structure in Latin and English
+  - Translate complex ideas and sentences into Latin and English
+  - Read real, unedited Latin texts with minimal glossing
 
 
 
-## Policies
+
+## Community-based learning
+
+
+
+
+## What to expect
+
+### Organization of course
+
+### Textbook
+
+Our textbook is the first release of *Hellênikê / ἑλληνική: an open-source introduction to ancient Greek*, which you can purchase directly from the Classics Department Office.  The text will be available this fall in two installments:  packet 1 will be available the first week of classes; packet 2 will be available after fall break.
+
+You can always find a current on-line version at [https://hellenike.github.io/textbook/](https://hellenike.github.io/textbook/), and can always download a current PDF from [https://github.com/hellenike/textbook/raw/main/pdf/hellenike.pdf](https://github.com/hellenike/textbook/raw/main/pdf/hellenike.pdf).
+
+### How to succeed
 
 
 
@@ -91,3 +110,8 @@ Your course grade will be recorded from this table.  In the row for each grade, 
 The Department of Classics and the Classics Department Inclusion Committee offer a peer-based tutoring program for Greek 101 students. The tutors have received training through Academic Services and Learning Resources, and can discuss course with ou, help you understand how to solve problems, and suggest independent learning strategies.
 
 Tutoring workshops run as an appointment-based service of 40-minute sessions, at time arranged between you and the Peer Tutor. To set up an appointment with one of the tutors, please contact your professor.
+
+
+
+
+## Policies
