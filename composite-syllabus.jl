@@ -22,7 +22,7 @@ hdr = join(hdrlines,"\n")
 
 # Create single markdown file
 docsmd = composite(srcdir)
-md = hdr * replace(docsmd, "`" => "")
+md = hdr * docsmd #replace(docsmd, "`" => "")
 # Another LaText gotcha:
 tidier = replace(md, "-*" => "*")
 

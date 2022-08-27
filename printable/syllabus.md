@@ -11,7 +11,7 @@ author: [Neel Smith]
 
 ## Contact information
 
-  - **Instructor**: Neel Smith.  Email: at holycross.edu, user name nsmith
+  - **Instructor**: Neel Smith.  Email: at `holycross.edu`, user name `nsmith`
   - **Regular meeting times**:  MWF 9:00-9:50, Stein 304.  CBL sections: Wednesday  6:00 pm, Thursday 8:00 am, Fenwick 420.
   - **Scheduled drop-in hours**:  Tuesday 10:00-11:30, Wednesday 12:00-1:30,Friday, 12:30-2:00, Fenwick 415.
   - **Manuscripts, Inscriptions and Documents Club**:  Friday, 2:00 pm -, fourth floor of Fenwick Hall.
@@ -20,8 +20,6 @@ author: [Neel Smith]
 
 
 ## CBL
-
-Meeting times: section 10A: Wed. 6:00pm;  section 10B: Tues. 8:00 am.
 
 
 
@@ -84,3 +82,12 @@ Your course grade will be recorded from this table.  In the row for each grade, 
 | C | 14 | 33 |  8 | 11 |
 | C- | 13 | 32 |  7 | 10 |
 | D | 12 | 31 |  7 | 8 |
+
+
+
+
+## Peer tutoring
+
+The Department of Classics and the Classics Department Inclusion Committee offer a peer-based tutoring program for Greek 101 students. The tutors have received training through Academic Services and Learning Resources, and can discuss course with ou, help you understand how to solve problems, and suggest independent learning strategies.
+
+Tutoring workshops run as an appointment-based service of 40-minute sessions, at time arranged between you and the Peer Tutor. To set up an appointment with one of the tutors, please contact your professor.

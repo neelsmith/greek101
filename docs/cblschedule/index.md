@@ -1,15 +1,15 @@
 ---
-title: CBL
+title: "CBL schedule"
 layout: page
-parent: Syllabus
-nav_order: 2
-
+nav_order: 6
 ---
 
 # CBL
 
 
 Meeting times: section 10A: Wed. 6:00pm;  section 10B: Tues. 8:00 am.
+
+Regular location: Fenwick 420.
 
 
 1. Aug. 30/31: **no CBL lab**
@@ -19,10 +19,4 @@ Meeting times: section 10A: Wed. 6:00pm;  section 10B: Tues. 8:00 am.
 5. Sep. 27/28: *in lieu of section meetings, visits to WAM in small groups*
 6. Oct. 4/5:  questions and ideas from WAM visits: *written summary of questions and ideas submitted in class*
 7. Oct. 11/12: **fall break: no lab meeting**
-8. Oct. 18/19: 
-9. Oct. 24/26: 
-10. Nov. 1/2:
-11. Nov. 8/9:
-12. Nov. 15/16:
-13. Nov. 22/23: **Thanksgiving break: no lab meeting**
 

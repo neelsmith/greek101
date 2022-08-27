@@ -2,12 +2,11 @@
 title: CBL
 layout: page
 parent: Syllabus
-nav_order: 2
+nav_order: 3
 
 ---
 
-## CBL
+## Community-based learning
 
 
-Meeting times: section 10A: Wed. 6:00pm;  section 10B: Tues. 8:00 am.
 
