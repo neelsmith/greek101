@@ -2,11 +2,11 @@
 title: "Course requirements and grades"
 layout: page
 parent:  Syllabus
-nav_order: 5
+nav_order: 7
 ---
 
 
-## Course requirements and grades
+# Course requirements and grades
 
 You determine your own course grade by satisfactorily completing a number of assignments in three categories:
 
@@ -19,7 +19,7 @@ All assignments will be graded satisfactory/unsatisfactory according to an expli
 
 
 
-###  Class preparation
+##  Class preparation
 
 The course schedule includes twenty brief assignments as part of your routine class preparation, eighteen to be submitted in writing, and two oral assignments. Each assignment can earn up to two points: one point for a completed submission by 5:00 pm the day *before* class, and a second point for a grade of satisfactory.  The total points you can earn in this category is twenty.
 
@@ -28,7 +28,7 @@ The specifications for these assignments are straightforward: a submission is sa
 
 
 
-### Portfolio assignments
+## Portfolio assignments
 
 Over the course of the semester, you will develop a portfolio of ten longer assignments. Four of these will demonstrate mastery of basic features of language by analyzing and explaining forms and constructions; three will be analyses and translations of passages in Greek; three  will be compositions in Greek.
 
@@ -37,7 +37,7 @@ Throughout the semester, we will set aside class meetings to workshop drafts of 
 As with class preparation assignments, each portfolio assignment earns one point for a complete submission on time, and a second point if it completes all requirements to achieve a satisfactory grade.  Like class preparation assignments, portfolio assignments may be revised as often as you like up to the deadline for revisions for each module. You can earn a total of 20 points in this category.
 
 
-### CBL lab
+## CBL lab
 
 Throughout the year, you will participate in a weekly CBL lab led by an alumna or alumnus of last year's Greek 101/102 course.  In the fall semester we will be working with the Worcester Art Museum on a project (MORE INFORMATION TBA) 
 

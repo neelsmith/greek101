@@ -5,4 +5,4 @@ parent:  Syllabus
 nav_order: 10
 ---
 
-## Policies
+# Policies

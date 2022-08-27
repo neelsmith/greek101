@@ -6,7 +6,7 @@ nav_order: 3
 
 ---
 
-## Community-based learning
+# Community-based learning
 
 
 

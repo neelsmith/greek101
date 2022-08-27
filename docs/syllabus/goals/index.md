@@ -5,16 +5,14 @@ parent:  Syllabus
 nav_order: 2
 ---
 
-## Goals and objectives
+# Goals
 
-Greek 101 is the first semester of an ambitious new two-semester sequence to introduce you to the study of ancient Greek.  Our curriculum is inspired by the Latin 101-102 sequence developed by several members of our department at Holy Cross, led by [Professor Machado](https://dominicmachado.github.io). 
+Greek 101 is the first semester of an ambitious new two-semester sequence to introduce you to the study of ancient Greek.  Our curriculum is inspired by the Latin 101-102 sequence developed by several members of our department at Holy Cross, led by [Professor Machado](https://dominicmachado.github.io), and shares a directly parallel set of overarching goals.  By the end of this course, you will:
 
+- identify ways that  language structures our understanding of the world we live in
+- articulate how the Greek language has shaped and continues to shape structures of power in the modern world
+- read and pronounce Greek with confidence and accuracy
+- analyze syntax and sentence structure in Greek and English
+- express complex ideas in written composition both in Greek and in English
+- read authentic, unaltered Greek texts with minimal glossing
 
-
-
-- Explain how language structures the world we live in
-- Articulate how the Greek language has shaped and continues to shape structures of power in the modern world
-- Read and pronounce Greek with confidence and accuracy
-- Analyze syntax and sentence structure in Latin and English
-- Translate complex ideas and sentences into Latin and English
-- Read real, unedited Latin texts with minimal glossing

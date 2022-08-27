@@ -10,5 +10,6 @@ echo Using $PANDOC and $JULIA
 $JULIA composite-syllabus.jl
 echo "Created composite file. Now running pandoc."
 
-$PANDOC $INPUT --from markdown -o $OUTFILE --pdf-engine=tectonic --template eisvogel -V paper:letter  -V classoption=oneside  -V 'sansfont:Brill' -V 'mainfont:Brill'
+$PANDOC $INPUT --from markdown -o $OUTFILE --pdf-engine=tectonic  -V paper:letter  -V classoption=oneside  -V 'sansfont:Brill' -V 'mainfont:Brill'
+
 

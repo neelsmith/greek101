@@ -2,11 +2,11 @@
 title: "Peer tutoring"
 layout: page
 parent:  Syllabus
-nav_order: 6
+nav_order: 15
 ---
 
 
-## Peer tutoring
+# Peer tutoring
 
 The Department of Classics and the Classics Department Inclusion Committee offer a peer-based tutoring program for Greek 101 students. The tutors have received training through Academic Services and Learning Resources, and can discuss course with ou, help you understand how to solve problems, and suggest independent learning strategies. 
 
