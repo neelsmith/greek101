@@ -7,7 +7,7 @@ nav_order: 1
 
 # Contact information
 
-**Instructor**: Neel Smith.  Email: at `holycross.edu`, user name `nsmith`
+**Instructor**: Neel Smith.  **Email**: at `holycross.edu`, user name `nsmith`
 
 **Regular class meeting times**:  MWF 9:00-9:50, Stein 304.  CBL sections: Wednesday  6:00-6:50 pm, Thursday 8:00-8:50 am, in Fenwick 420. 
 

@@ -16,9 +16,10 @@ The fall semester course is organized in four modules centered on four major ide
 The four modules correspond closely to modules 1-4 in the textbook we will be using, which you can purchase directly from the Classics Department office. The text will be available this fall in two installments:  packet 1 will be available the first week of classes; packet 2 will be available after fall break.  In addition, you can always find a current on-line version at [https://hellenike.github.io/textbook/](https://hellenike.github.io/textbook/), and can always download a current PDF of the textbook from [https://github.com/hellenike/textbook/raw/main/pdf/hellenike.pdf](https://github.com/hellenike/textbook/raw/main/pdf/hellenike.pdf).
 
 
-After introducing features of the ancient Greek language, each module of the textbook includes reading that connects the topics you are studying to contemporary experience, and concludes with a reading selection from an authentic ancient text.  This year, our reading will be drawn from a defense speech composed by the orator Lysias in a murder trial.
+After introducing features of the ancient Greek language, each module of the textbook includes reading that connects the topics you are studying to contemporary experience, and concludes with a reading selection from an authentic ancient text.  This year, our reading selections will be drawn from a defense speech composed by the orator Lysias in a murder trial.
 
-You can learn more about how the textbook is organized in sections 1 ("Hellênikê / ἑλληνική: an open-source introduction to ancient Greek") and 2 ("About this textbook") of the textbook.
+
+Read sections 1 ("Hellênikê / ἑλληνική: an open-source introduction to ancient Greek") and 2 ("About this textbook") of the textbook to learn more about how the textbook is organized.
 
 
 The textbook also has an accompanying youtube channel and playlist at [https://www.youtube.com/playlist?list=PLhhpSgbqjgokrwa4HmReaGEptvqURz6Ns](https://www.youtube.com/playlist?list=PLhhpSgbqjgokrwa4HmReaGEptvqURz6Ns).
@@ -29,6 +30,6 @@ The textbook also has an accompanying youtube channel and playlist at [https://w
 
 
 
-All course material will be available on the course web site at [https://neelsmith.github.io/greek101/](https://neelsmith.github.io/greek101/).  You can use Canvas to submit written assignments, and review your progress in completing graded assignments.
+All course material will be available on the course web site at [https://neelsmith.github.io/greek101/](https://neelsmith.github.io/greek101/).  You can use Canvas to submit written assignments, and to review your progress in completing graded assignments.
 
 Written assignments should be written clearly and legibly in dark pencil on paper.  You can submit the assignments directly to Canvas if you have the Canvas Student app on a cell phone. If you do not have access to the Canvas Student app on a phone, please get in touch with me, and we can make arrangements for submitting your homework on paper.  If you have technical problems submitting an assignment, please get in touch with Educational Technology Services and ask for help.
