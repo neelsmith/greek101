@@ -32,5 +32,5 @@ To prepare for the beginning of the semester:
 
 ### Due dates
 
-- initial survey due by 5:00, Aug. 30
+- confidential informational survey due by 5:00, Aug. 29
 - written homework due by 5:00, Sept. 1
