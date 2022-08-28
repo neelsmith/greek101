@@ -12,6 +12,8 @@ There are no prerequisites for this course, and no individual concept we are goi
 Some concepts may sink in immediately, and others may take more practice.  Review and practice are as important as your initial introduction to a topic, so every graded assignment offers you the opportunity to repeat it as often as you need in order to complete it satisfactorily.
 
 
+Most of our class time together will be devoted to actively applying and using ideas from your class preparation. Since much of the value of this time results from your active engagement with course material, and cannot be replicated by passively watching someone else's involvement, I do not plan to record our class meetings.
+
 ## Tips
 
 These practices will help you absorb material most effectively:
