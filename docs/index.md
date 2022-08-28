@@ -8,7 +8,8 @@ nav_order: 0
 
 # Greek 101-01, F'22: home page
 
-Welcome to the course web site for Greek 101, section 1.! 
+Welcome to the course web site for Greek 101, section 1! 
+
 
 ## Announcements
 

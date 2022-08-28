@@ -1,0 +1,48 @@
+# Configure a course calendar
+# Used for title of web page
+courseTitle = "Latin 101, section 2, F'22"
+# YYYY-MM-DD
+firstDay = "2022-08-31"
+lastDay = "2022-12-17"
+
+# Pattern of class meetings: "mwf", "tt" or "wf"
+schedule = "mwf"
+
+# Number of weeks the calendar should run for
+totalWeeks =  14
+
+fixedDates = [
+  ["2022-08-29", "Advising: no classes."],
+  ["2022-10-07",  "Last class before fall break."],
+  ["2022-10-17",  "Classes resume."],
+  ["2022-11-22",  "Last class before Thanksgiving break."],
+  ["2022-11-28",  "Classes resume."],
+  ["2022-12-09",  "Last day of classes."],
+  ["2022-12-10",  "Study period begins."],
+  ["2022-12-13",  "Final examinations begin."],
+
+
+  ["2022-10-10",  "✏️ First reflection exercise."],
+  ["2022-12-07",  "✏️ Second reflection exercise."],
+
+  ["2022-09-15",  "📜 Mastering unit 1 forms due."],
+  ["2022-09-22",  "📜 Reading assignment 1 due."],
+  ["2022-09-29",  "📜 Composition 1 due."],
+
+  ["2022-10-06",  "📜 Mastering unit 2 forms due."],
+  ["2022-10-20",  "📜 Reading assignment 2 due."],
+  ["2022-10-27",  "📜 Composition 2 due."],
+
+  ["2022-11-03",  "📜 Mastering unit 3 forms due."],
+  ["2022-11-10",  "📜 Reading assignment 3 due."],
+  ["2022-11-17",  "📜 Composition 3 due."],
+
+
+  ["2022-10-21",  "⚠️ **Last day to submit revisions of Module 1 assignments**."],
+  ["2022-12-02",  "⚠️ **Last day to submit revisions of Module 2 assignments**."],
+  ["2022-12-12",  "⚠️ **Last day to submit revisions of Module 3 and 4 assignments**.."],
+]
+
+
+
+
