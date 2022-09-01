@@ -55,7 +55,7 @@ The total points you can earn in this category is 16.
 
 Your course grade will be recorded from this table.  In the row for each grade, the numbers in each column represent the minimum number of points required in that category.
 
-| Course grade | Portfolio (out of 20) | Class preparation (out of 40) | CBL participation  (out of 16) |
+| Course grade | Portfolio (out of 20) | Class preparation (out of 40) | CBL  (out of 16) |
 | --- | --- | --- | --- |
 | A | 20 | 38 |   15 | 
 | A- | 20 | 36 |   15 | 

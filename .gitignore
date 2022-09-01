@@ -5,3 +5,4 @@ _site
 docs/.jekyll-cache/
 .vscode/
 scratch/
+F22/class-slides/*.html

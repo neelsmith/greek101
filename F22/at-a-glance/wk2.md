@@ -4,10 +4,13 @@
 
 ### MWF classes
 
+- we learn the two most frequent tenses in Greek for narrating events in past time, the **aorist** and the **imperfect**
+- Wednesday's class includes a visit from the Classics Department Peer Tutors
+
 
 ### CBL
 
-- orientation to CBL course component
+- orientation to CBL course component.  Please read all of Lysias 1 in English translation.
 
 
 ### Due dates
