@@ -22,7 +22,7 @@ Deadlines to note:
 | Dates | Monday | Wednesday | Friday | Notes |
 | ---: | :--- | :--- | :--- | :--- |
 | *Aug 29*, *Aug 31*, *Sep 2* | *no classes* | [Introduction to course](../classes/intro/) | ✏️ [Accent](../classes/accent/) | **Mon**: *Advising: no classes.* **Fri**. ***Written assignment for class due on Thurs. at 5:00**.* |
-| *Sep 5*, *Sep 7*, *Sep 9* | ✏️ The aorist indicative | 🗣️ Mastering verb forms: active, middle and passive voices of the aorist | ✏️ The imperfect indicative |  |
+| *Sep 5*, *Sep 7*, *Sep 9* | ✏️ The [aorist indicative](../classes/aorist/) | 🗣️ Mastering verb forms: active, middle and passive voices of the aorist | ✏️ The [imperfect indicative](../classes/imperfect/) |  |
 | *Sep 12*, *Sep 14*, *Sep 16* | ✏️ Contract verbs | ✏️ The second aorist | Review of verb forms | **Thu**: *📜 Mastering unit 1 forms due.* |
 | *Sep 19*, *Sep 21*, *Sep 23* | Workshop: reading assignment 1 | Subjects, verbs, objects: word order and translation | Workshop composition 1 | **Thu**: *📜 Reading assignment 1 due.* |
 
