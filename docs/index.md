@@ -15,6 +15,7 @@ Welcome to the course web site for Greek 101, section 1!
 
 - **reminder**: plan to complete first oral assignment before **Thursday, Sept. 8**.
 - **reminder**: please read all of Lysias 1 in English translation before your first CBL section meeting (**Sept. 6/7**).
+- **Fri., Sept. 9**: summer research symposium in Hogan Ballroom, 12:00-3:00. Visit a poster on research with Greek manuscripts by Rose Kaczmarek '23!
 - **Tues., Sept. 20**, change in office hours for this date only: 10:45-12:30
 
 
