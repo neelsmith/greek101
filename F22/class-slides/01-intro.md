@@ -12,84 +12,75 @@ h1 {
 
 # Agenda
 
-- Mechanics
-- Course etiquette
-- Greetings
-- Course overview
-    - Assignments, assessment
-    - CBL  - why and how
-- Unit 1: Latin is an inflected language
-
----
-
-# Mechanics: Zoom
-
-- mute audio by default
-- keep chat stream open
-- also use Zoom reactions
-- please keep video on if you like!
-
----
-
-# Mechanics: course web site
-
-Some key parts of the site:
-
-- **[home page](https://neelsmith.github.io/latin101/)** has announcements and week at a glance
-- **schedule** has links to daily assignments
-- **search box** (top of every page)  also useful!
-
----
-
-# Etiquette to emphasize in F20
-
-- flexibility
-- patience with each other
-- communicating/connecting takes effort!
-
-## Biggest take-away from survey forms
-
-> *Form small groups outside of class!*
-
-<style scoped>
-  blockquote p::before {
-    content: ">> "
-  }
-  strong {
-    color: rgb(159, 69, 17);
-  }
-  em {
-    color: 	rgb(24, 23, 162);
-    }
-</style>
+1. Course overview
+2. Submit your name in Greek!
+3. Read some Greek words together
 
 
 ---
 
 
-# Meeting each other
+# New curriculum
 
-Break-out groups, two reporters to bring back to whole group:
+- no made-up Greek: Lysias, oration 1
+- topics ordered so you can read immediately
+- CBL component
 
-1. one interesting fact to introduce each member of your group
-2. suggest at least one way to form study groups outside of class
+---
+
+
+# Real Greek: Lysias 1
+
+- fifth-century BCE murder trial
+- textbook keyed to Lysias 1
+- two translations in textbook: read through before CBL meeting
+
+---
+
+# Getting the most out of the curriculum
+
+Please do read the syllabus!
+
+Note tips for how to succeed
+
+---
+
+## How grading works
+
+- specification grading
+- note calendar for initial due dates and final revisions
 
 ---
 
 
-# Highlights from course site
 
-- All assignments can be revised (up to unit deadline)
-- CBL integral to course
+## Mechanics
 
+- course web site
+    - **[home page](https://neelsmith.github.io/latin101/)** has announcements and week at a glance
+    - **schedule** has links to daily assignments
+    - **search box** (top of every page)  also useful!
+- Canvas for submission and grades
+
+
+
+--- 
+
+# CBL
+
+
+- collaboration with WAM
+- weekly meeting with TA
+- projects in WAM after fall break
 
 ---
 
-# Studying Latin as a form of privilege
+## Studying Greek as a form of privilege
 
 -  can convey real, transferable skills:
     - with languages
     - with cultural understanding
+- *Money* magazine: [HC #5 liberal arts college](https://news.holycross.edu/blog/2022/08/09/money-magazine-ranks-holy-cross-no-5-among-best-liberal-arts-colleges-in-the-nation/)!    
 - but also can be gatekeeper to other privileges/power
 
 
@@ -126,7 +117,15 @@ Break-out groups, two reporters to bring back to whole group:
   }
 </style>
 
+
 ---
+
+# Live free, Google!
+
+![live free, Google](imgs/livefree.png)
+
+---
+
 
 
 # Latin: what kind of authority?
@@ -135,157 +134,25 @@ Why a Latin motto?
 
 Why not Spanish?  or Chinese?
 
-> (Footnote: McDaniel: Latin gobbledy gook = Google Translate output!)
-
-
-
----
-
-# Inflection vs. word order
-
----
-
-
-# Is it news?
-
-English expresses syntax by *word order*: **subject-verb-object** (SVO)
-
-Not news:
-
-> Dog bites man.
-
-News:
-
-> Man bites dog!
-
-<style scoped>
-  strong {
-    color: 	rgb(24, 23, 162);
-    font-style: normal;
-  }
-</style>
-
-
----
-
-# Latin nouns: find declension from vocabulary entry
-
-- second form is *genitive singular*:
-- *ending* tells you *declension*
-
-| Ending | Declension | Example |
-| --- | ---  | --- |
-| -**ae** | 1st | filia, fili**ae**, *f.*, "daughter" |
-| -**i** | 2nd | filus, fili**i**, *m.*, "son" |
-| -**is** | 3rd | homo, homin**is**, *m.*, "person" |
-
-
-<style scoped>
-
-  strong {
-    color: rgb(159, 69, 17);
-  }
-</style>
-
-
-
-
----
-
-# Accusative: the **target** case
-
-
-| Declension | Singular | Plural |
-| --- | --- | --- |
-| 1st | -*a***m** | -*a***s** |
-| 2nd | -*u***m** | -*o***s** |
-| 3rd | -*e***m** | -*e***s** |
-
-
-
-<style scoped>
-  strong {
-    color: rgb(159, 69, 17);
-  }
-  em {
-    color: 	rgb(24, 23, 162);
-    font-style: normal;
-  }
-</style>
-
 
 ---
 
 
 
-# Vocabulary
 
-Two **third-declension** nouns:
+# Practice submission from app
 
-> canis, can**is**, *m.*, "dog"
-> homo, homin**is**, *m*, "person"
-
-<style scoped>
-  strong {
-  color: rgb(159, 69, 17);
-  }
-</style>
+1. Open "Introduction to Greek 1" in app
+2. Assignments -> Writing Greek (due tomorrow at 5:00 pm)
+3. Submit assignment (giant blue button at bottom of screen)
+4. Choose a file: use camera
+5. Submit
+6. Confetti!
 
 ---
 
 
-# Latin expresses syntax by **form**
-
-Not news:
-
-> Dog bites man.
-> Canis homin**em** mordet.
-> Homin**em** canis mordet.
-
-News:
-
-> Man bites dog.
-> Can**em** homo mordet.
-> Homo can**em** mordet.
-
-
-<style scoped>
-  strong {
-    color: rgb(159, 69, 17);
-  }
-  em {
-    color: 	rgb(24, 23, 162);
-    font-style: normal;
-  }
-</style>
+# Practice reading
 
 ---
 
-
-# Latin word order is *not* random!
-
-A frequent pattern:
-
-- subject-object-verb (SOV) **canis hominem mordet**.
-
-Other possibilities:
-
-- object-subject-verb (OSV) **hominem canis mordet**.
-- verb-object-subject (VOS) **mordet hominem canis**.
-
-
-<style scoped>
-  strong {
-  color: 	rgb(24, 23, 162);
-  }
-
-</style>
-
-
----
-
-# What does it mean?
-
-
-- less common patterns *always* call your attention to something less expected
-- slight difference in emphasis?
