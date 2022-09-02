@@ -11,6 +11,6 @@ nav_order: 4
 Read sections 4.2-4.7 of your textbook.  (On the web, that begins with "[Verbal units](http://localhost:4001/topics/verbalunits/)", and runs through "[The aorist indicative](http://localhost:4001/topics/aorist/)").
 
 - memorize the third person singular and plural forms of the aorist in the active, middle and passive voices.
-- begin memorizing the first, third and sixth principal parts of the verbs for chapter 1
+- begin memorizing the first, third and sixth principal parts of the verbs in the chapter 1 vocabulary.
 
-Then create submit [this written exercise](https://hellenike.github.io/textbook/practice/module1/practice/aorist/).
+Then submit [this written exercise](https://hellenike.github.io/textbook/practice/module1/practice/aorist/).
