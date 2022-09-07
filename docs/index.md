@@ -14,6 +14,7 @@ Welcome to the course web site for Greek 101, section 1!
 ## Announcements
 
 
+
 - **Sept. 6/7**: please read all of Lysias 1 in English translation before your first CBL section meeting, held in Fenwick 420.
 - **Sept. 7**: plan to complete first oral assignment before Thursday.
 - **reminder**: begin memorizing [first, third and sixth principal parts ](./module1/vocab1/) of verbs in module 1 vocabulary
