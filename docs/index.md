@@ -13,11 +13,12 @@ Welcome to the course web site for Greek 101, section 1!
 
 ## Announcements
 
-- **Mon, Sept. 5**:  Classics Department Open House, 3-5 in Stein Courtyard.  Join us for food and a chance to meet other people who love learning Greek!
-- **Sept. 6/7**: please read all of Lysias 1 in English translation before your first CBL section meeting (****).
+
+- **Sept. 6/7**: please read all of Lysias 1 in English translation before your first CBL section meeting.
 - **Sept. 7**: plan to complete first oral assignment before Thursday.
 - **reminder**: begin memorizing [first, third and sixth principal parts ](./module1/vocab1/) of verbs in module 1 vocabulary
 - **Fri., Sept. 9**: summer research symposium in Hogan Ballroom, 12:00-3:00. Visit a poster on research with Greek manuscripts by Rose Kaczmarek '23!
+- **Fri., Sept. 16**: Beginning of the year open house for Manuscripts, Inscriptions and Documents Club, 3:00-5:00, Levis Browsing Room, Dinand Library
 - **Tues., Sept. 20**, change in office hours for this date only: 10:45-12:30
 
 
