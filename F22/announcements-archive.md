@@ -1,6 +1,11 @@
 # Announcements
 
 
+
+
+- **Sept. 6/7**: please read all of Lysias 1 in English translation before your first CBL section meeting, held in Fenwick 420.
+- **Sept. 7**: plan to complete first oral assignment before Thursday.
+- **reminder**: begin memorizing [first, third and sixth principal parts ](./module1/vocab1/) of verbs in module 1 vocabulary
 - **Mon, Sept. 5**:  Classics Department Open House, 3-5 in Stein Courtyard.  Join us for food and a chance to meet other people who love learning Greek!
 
 To prepare for the beginning of the semester:

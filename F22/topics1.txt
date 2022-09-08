@@ -17,10 +17,11 @@
 
 
 
-✏️ Contract verbs
+✏️ [Contract verbs](../classes/contracts/)
 
 
-✏️ The second aorist
+
+✏️ The [second aorist](../classes/aorist2/)
 
 Review of verb forms
 
