@@ -1,22 +1,19 @@
 
+Recall that principal parts are given in the first person singular of the indicative mood for the tense/voice combination they represent.
 
-What would you look up in the dictionary to found out about this principal part?
+For each of the following English phrases, please supply (1) the Greek principal part corresponding to the phrase
 
+1. "I was struck"
+2. "I became"
+3. "I was able" (once)
+4. "I showed"
+5. "I am"
 
-1. factus
-2. cepi
-3. duxi
-4. audiui
+For each of the following principal parts, please supply the form you would use for looking up the verb in a lexicon (ie, the first principal part):
 
-
-Give the Latin principal part that you would use to express the **highlighted expressions** in English:
-
-5. **I was loved**.
-6. **I gave**.
-7. **She seized.**
-
-Define which conjugation (1,2,3,4 or 3-io) each of the following verbs belongs to:
-
-8. "to hear"
-9. "to make"
-10. "to love"
+ 
+1. ἦλθον
+2. ἔδοξα
+3. ἐγενόμην
+4. ἐδόχθην
+5. ἔβαλον
