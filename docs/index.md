@@ -14,35 +14,36 @@ Welcome to the course web site for Greek 101, section 1!
 ## Announcements
 
 
-- **Fri., Sept. 9**: summer research symposium in Hogan Ballroom, 12:00-3:00. Visit a poster on research with Greek manuscripts by Rose Kaczmarek '23!
+- **First portfolio assignment** now available: [mastery of language features from module 1](https://hellenike.github.io/textbook/practice/module1/portfolio/mastery/) .
 - **Fri., Sept. 16**: Beginning of the year open house for Manuscripts, Inscriptions and Documents Club, 3:00-5:00, Levis Browsing Room, Dinand Library
 - **Tues., Sept. 20**, change in office hours for this date only: 10:45-12:30
 
 
 
-## Week at a glance: Sept. 5-9
+## Week at a glance: Sept. 12-16
+
 
 ### MWF classes
 
-- we learn the two most frequent tenses in Greek for narrating events in past time, the **aorist** and the **imperfect**
-- Wednesday's class includes a visit from the Classics Department Peer Tutors
+We learn how to form the imperfect tense of *contract verbs*, and we add complete our coverage of the aorist indicative with the *second aorist*.
+
+This is the last new grammatical material we will cover in Module 1.  
 
 
 ### CBL
 
-- orientation to CBL course component.  Please read all of Lysias 1 in English translation.
-
+- Visit from CBL office: how CBL experience affects your learning.
 
 ### Due dates
 
 
-Oral assignment:
+Written daily assignments:
 
-- Wednesday: last day to complete first oral assignment
+- Sunday: contract verbs
+- Tuesday: the second aorist
 
+Portfolio assignment:
 
-Written assignments:
+- Thursday: [mastery](https://hellenike.github.io/textbook/practice/module1/portfolio/mastery/) of language features from module 1.
 
-- Sunday: the aorist indicative
-- Thursday: the imperfect indicative
 
