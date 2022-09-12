@@ -3,6 +3,7 @@
 
 
 
+- **Fri., Sept. 9**: summer research symposium in Hogan Ballroom, 12:00-3:00. Visit a poster on research with Greek manuscripts by Rose Kaczmarek '23!
 - **Sept. 6/7**: please read all of Lysias 1 in English translation before your first CBL section meeting, held in Fenwick 420.
 - **Sept. 7**: plan to complete first oral assignment before Thursday.
 - **reminder**: begin memorizing [first, third and sixth principal parts ](./module1/vocab1/) of verbs in module 1 vocabulary
