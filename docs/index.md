@@ -28,7 +28,30 @@ Welcome to the course web site for Greek 101, section 1!
 We learn how to form the imperfect tense of *contract verbs*, and we add complete our coverage of the aorist indicative with the *second aorist*.
 
 
-Review the endings used with the third principal parts for the active and middle voices of the *first* aorist :
+
+#### Reviewing the imperfect
+
+Review the endings used with the third principal parts for the active and middle voices of the *first* aorist:
+
+
+Endings for -ω verbs:
+
+| Person and Number	| Active ending |	Middle  ending |
+| --- | --- | --- |
+| third singular |	-ε or -εν	| -ετο |
+| third plural	| -ον	| -οντο |
+
+
+Endings for -μι verbs are identical but without the initial (so-called "thematic" vowel):
+
+
+| Person and Number	| Active ending |	Middle  ending |
+| --- | --- | --- |
+| third singular |	-	| -το |
+| third plural	| -ν	| -ντο |
+
+
+#### Reviewing the aorist
 
 | Person and Number	| Active ending |	Middle  ending |
 | --- | --- | --- |
@@ -36,7 +59,7 @@ Review the endings used with the third principal parts for the active and middle
 | third plural	| -ᾰν	| -αντο |
 
 
-Memorize endings used with the third principal parts for the active and middle voices of the *second* aorist (identical to endings for active and middle voice of the imperfect!):
+Memorize endings used with the third principal parts for the active and middle voices of the *second* aorist (identical to endings for active and middle voice of the imperfect of -ω verbs):
 
 | Person and Number	| Active ending |	Middle  ending |
 | --- | --- | --- |
