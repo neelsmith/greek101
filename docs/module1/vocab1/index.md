@@ -17,6 +17,8 @@ For this module, memorize the first, third and sixth principal parts of each ver
 1. βάλλω, βαλέω, ἔβαλον, βέβληκα, βέβλημαι, ἐβλήθην throw, hit (by throwing), strike (by throwing), pelt
 1. γίγνομαι, γενήσομαι, ἐγενόμην, γέγονα, γεγένημαι, — become, come to be, be born, be
 1. δείκνυμι, δείξω, ἔδειξα δέδειχα, δέδειγμαι, ἐδείχθην show, demonstrate
+1. δίδωμι, δώσω, ἔδωκα, δέδωκα, δέδομαι, ἐδόθην. to give.
+    1. παραδίδωμι. hand over, transmit, entrust.
 1. δοκέω, δόξω, ἔδοξα, δέδογμαι, -, ἐδόχθην. to think, suppose, have or form an opinion, decide. Especially in the latter sense, it is frequently used impersonally in the third person singular, it seems best (to someone) and therefore (someone) decided. Example: ἔδοξέ μοι, “I decided”. (μοι is a pronoun meaning “to me”.) 
 1. δύναμαι, δυνήσομαι, —, —, δεδύναμαι, ἐδυνήθην be able, can, be capable, have the power
 1. εἰμί, ἔσομαι, —, —, —, — be, exist.
