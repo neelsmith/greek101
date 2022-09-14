@@ -79,26 +79,26 @@ Remember that all aorists with a sixth principal part use the same endings for t
 #### δίδωμι
 
 
-Aorist active:
+Aorist (textbook section 4.7.5, "An important irregular verb" ), active voice:
 
 - singular ἔδωκε
 - plural ἔδοσαν
 
 
-Aorist middle:
+Middle:
 
 - ἔδοτο
 - ἔδοντο
 
 
 
-Imperfect active:
+Imperfect (textbook section 4.8.4, "Imperfect of δίδωμι"), active voice:
 
 - singular ἐδίδου
 - plural ἐδίδοσαν
 
 
-Imperfect active:
+Middle voice:
 
 - singular ἐδίδοτο
 - plural ἐδίδοντο
