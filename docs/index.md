@@ -16,7 +16,7 @@ Welcome to the course web site for Greek 101, section 1!
 
 - **First portfolio assignment** now available: [mastery of language features from module 1](https://hellenike.github.io/textbook/practice/module1/portfolio/mastery/) .
 - **Fri., Sept. 16**: Beginning of the year open house for Manuscripts, Inscriptions and Documents Club, 3:00-5:00, Levis Browsing Room, Dinand Library
-- **Mon., Sept. 19**, check-in on synopses of verbs in the imperfect and perfect tenses of the indicative: regular -ω verbs, -μι verbs and the irregular verb δίδωμι.
+- **Mon., Sept. 19**, check-in on verb forms: produce synopses of verbs in the imperfect and perfect tenses of the indicative for regular -ω verbs, -μι verbs; recognize and identify forms of the irregular verb δίδωμι.
 - **Tues., Sept. 20**, change in office hours for this date only: 10:45-12:30
 
 
@@ -76,8 +76,37 @@ Remember that all aorists with a sixth principal part use the same endings for t
 | third plural	| -ησαν |
 
 
+#### δίδωμι
+
+
+Aorist active:
+
+- singular ἔδωκε
+- plural ἔδοσαν
+
+
+Aorist middle:
+
+- ἔδοτο
+- ἔδοντο
+
+
+
+Imperfect active:
+
+- singular ἐδίδου
+- plural ἐδίδοσαν
+
+
+Imperfect active:
+
+- singular ἐδίδοτο
+- plural ἐδίδοντο
+
+
 
 This is the last new grammatical material we will cover in Module 1.  
+
 
 
 ### CBL
@@ -95,5 +124,8 @@ Written daily assignments:
 Portfolio assignment:
 
 - Thursday: [mastery](https://hellenike.github.io/textbook/practice/module1/portfolio/mastery/) of language features from module 1.
+
+
+
 
 
