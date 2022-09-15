@@ -16,3 +16,5 @@ The principal parts of Greek verbs implicitly tell you both the stem and the set
 
 
 ## Learning principal parts
+
+Although you must memorize principal parts, recognizing regular patterns can help simplify this task.

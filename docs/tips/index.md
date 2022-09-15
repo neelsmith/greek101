@@ -6,10 +6,15 @@ has_children: true
 ---
 
 
-# Tips and hints
+# Tips and hints for review
 
 
-- patterns in phonological changes:
-    - temporal [augment](./augment)
-    - [contractions](./contractions)
+Look for regular sound changes in:
+
+- temporal [augment](./augment)
+- [contractions](./contractions)
+
+
+Review how to read principal parts, and look for regular patterns in their sound changes:
+
 - [principal parts](./principal_parts)
