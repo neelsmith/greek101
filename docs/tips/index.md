@@ -2,14 +2,14 @@
 title: "Tips and hints"
 layout: page
 nav_order: 8
+has_children: true
 ---
 
 
 # Tips and hints
 
 
-## Patterns in phonological changes
-
-- temporal [augment](./augment)
-- [contractions](./contractions)
+- patterns in phonological changes:
+    - temporal [augment](./augment)
+    - [contractions](./contractions)
 - [principal parts](./principal_parts)
