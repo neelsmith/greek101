@@ -1,6 +1,12 @@
+---
+title: "Week at a glance: Sept. 5 - Sept. 9"
+parent: "Review: week at a glance"
+layout: page
+nav_order: 2
+has_children: true
+---
 
-
-## Week at a glance: 
+## Week at a glance:   Sept. 5 - Sept. 9
 
 ### MWF classes
 

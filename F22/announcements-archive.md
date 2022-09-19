@@ -3,6 +3,9 @@
 
 
 
+- New page with [tips and hints for review](./tips)
+- **First portfolio assignment** now available: [mastery of language features from module 1](https://hellenike.github.io/textbook/practice/module1/portfolio/mastery/) .
+- **Fri., Sept. 16**: Beginning of the year open house for Manuscripts, Inscriptions and Documents Club, 3:00-5:00, Levis Browsing Room, Dinand Library
 - **Fri., Sept. 9**: summer research symposium in Hogan Ballroom, 12:00-3:00. Visit a poster on research with Greek manuscripts by Rose Kaczmarek '23!
 - **Sept. 6/7**: please read all of Lysias 1 in English translation before your first CBL section meeting, held in Fenwick 420.
 - **Sept. 7**: plan to complete first oral assignment before Thursday.

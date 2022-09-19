@@ -24,13 +24,13 @@ Deadlines to note:
 | *Aug 29*, *Aug 31*, *Sep 2* | *no classes* | [Introduction to course](../classes/intro/) | ✏️ [Accent](../classes/accent/) | **Mon**: *Advising: no classes.* **Fri**. ***Written assignment for class due on Thurs. at 5:00**.* |
 | *Sep 5*, *Sep 7*, *Sep 9* | ✏️ The [aorist indicative](../classes/aorist/) | 🗣️ Mastering [verb forms](../classes/aorist-review/): active, middle and passive voices of the aorist | ✏️ The [imperfect indicative](../classes/imperfect/) |  |
 | *Sep 12*, *Sep 14*, *Sep 16* | ✏️ [Contract verbs](../classes/contracts/) | ✏️ The [second aorist](../classes/aorist2/) | Review of verb forms | **Thu**: *📜 Mastering [unit 1](https://hellenike.github.io/textbook/practice/module1/portfolio/mastery/) due.* |
-| *Sep 19*, *Sep 21*, *Sep 23* | Workshop: reading assignment 1 | Subjects, verbs, objects: word order and translation | Workshop composition 1 | **Thu**: *📜 Reading assignment 1 due.* |
+| *Sep 19*, *Sep 21*, *Sep 23* | [Workshop](../classes/reading1/): reading assignment 1 | Subjects, verbs, objects: [word order](../classes/wordorder/) and translation | [Workshop](../classes/composition1/): composition 1 | **Thu**: *📜 [Reading assignment](https://hellenike.github.io/textbook/practice/module1/portfolio/reading/) 1 due.* |
 
 ## Module 2: nouns and adjectives
 
 | Dates | Monday | Wednesday | Friday | Notes |
 | ---: | :--- | :--- | :--- | :--- |
-| *Sep 26*, *Sep 28*, *Sep 30* | ✏️ substantives and the article | ✏️ the genitive case | ✏️ [Direct and indirect objects](../classes/dir-indir-objects/) | **Thu**: *📜 Composition 1 due.* |
+| *Sep 26*, *Sep 28*, *Sep 30* | ✏️ substantives and the article | ✏️ the genitive case | ✏️ [Direct and indirect objects](../classes/dir-indir-objects/) | **Thu**: *📜 [Composition 1](https://hellenike.github.io/textbook/practice/module1/portfolio/composition/) due.* |
 | *Oct 3*, *Oct 5*, *Oct 7* | ✏️ adjectives  | attributive and predicate expressions | analyzing clauses | **Fri**: *Last class before fall break.* **Thu**: *📜 Mastering unit 2 forms due.* |
 | *Oct 10*, *Oct 12*, *Oct 14* | *fall break* | *fall break* | *fall break* | **Mon**: *✏️ First reflection exercise.* |
 | *Oct 17*, *Oct 19*, *Oct 21* | Reading Workshop | ✏️ pronouns | ✏️ prepositions | **Mon**: *Classes resume.* **Thu**: *📜 Reading assignment 2 due.* **Fri**: *⚠️ **Last day to submit revisions of Module 1 assignments**.* |

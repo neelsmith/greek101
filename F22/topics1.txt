@@ -25,11 +25,11 @@
 
 Review of verb forms
 
-Workshop: reading assignment 1
+[Workshop](../classes/reading1/): reading assignment 1
 
-Subjects, verbs, objects: word order and translation
+Subjects, verbs, objects: [word order](../classes/wordorder/) and translation
 
-Workshop composition 1
+[Workshop](../classes/composition1/): composition 1
 
 
 
