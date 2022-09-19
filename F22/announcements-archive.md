@@ -2,7 +2,7 @@
 
 
 
-
+- **Mon., Sept. 19**, check-in on verb forms: produce synopses of verbs in the imperfect and perfect tenses of the indicative for regular -ω verbs, -μι verbs; recognize and identify forms of the irregular verb δίδωμι.
 - New page with [tips and hints for review](./tips)
 - **First portfolio assignment** now available: [mastery of language features from module 1](https://hellenike.github.io/textbook/practice/module1/portfolio/mastery/) .
 - **Fri., Sept. 16**: Beginning of the year open house for Manuscripts, Inscriptions and Documents Club, 3:00-5:00, Levis Browsing Room, Dinand Library

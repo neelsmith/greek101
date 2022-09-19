@@ -18,7 +18,6 @@ Welcome to the course web site for Greek 101, section 1!
     - [mastering forms](https://hellenike.github.io/textbook/practice/module1/portfolio/mastery/)
     - [analysis and translation](https://hellenike.github.io/textbook/practice/module1/portfolio/reading/)
     - [composition](https://hellenike.github.io/textbook/practice/module1/portfolio/composition/)
-- **Mon., Sept. 19**, check-in on verb forms: produce synopses of verbs in the imperfect and perfect tenses of the indicative for regular -ω verbs, -μι verbs; recognize and identify forms of the irregular verb δίδωμι.
 - **Tues., Sept. 20**, change in office hours for this date only: 10:45-12:30
 
 
