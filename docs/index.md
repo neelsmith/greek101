@@ -14,7 +14,10 @@ Welcome to the course web site for Greek 101, section 1!
 ## Announcements
 
 
-
+- Links to new textbook sections for all Module 1 portfolio assignments:
+    - [mastering forms](https://hellenike.github.io/textbook/practice/module1/portfolio/mastery/)
+    - [analysis and translation](https://hellenike.github.io/textbook/practice/module1/portfolio/reading/)
+    - [composition](https://hellenike.github.io/textbook/practice/module1/portfolio/composition/)
 - **Mon., Sept. 19**, check-in on verb forms: produce synopses of verbs in the imperfect and perfect tenses of the indicative for regular -ω verbs, -μι verbs; recognize and identify forms of the irregular verb δίδωμι.
 - **Tues., Sept. 20**, change in office hours for this date only: 10:45-12:30
 
@@ -34,21 +37,16 @@ Will cover no new material this week. Instead, we will apply the knowledge of ve
 
 - Orientation to WAM visits. Please view this video prior to your CBL section.
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFSQikoteoY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Due dates
 
 
-Written daily assignments:
+Written daily assignments: none
 
-- Sunday: contract verbs
-- Tuesday: the second aorist
 
 Portfolio assignment:
 
-- Thursday: [mastery](https://hellenike.github.io/textbook/practice/module1/portfolio/mastery/) of language features from module 1.
-
-
-
+- Thursday: [analysis and translation](https://hellenike.github.io/textbook/practice/module1/portfolio/reading/) of module 1 reading selection.
 
 
