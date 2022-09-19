@@ -14,6 +14,7 @@ Welcome to the course web site for Greek 101, section 1!
 ## Announcements
 
 
+- Liddell-Scott-Jones *[Greek Lexicon](http://folio2.furman.edu/lsj/)* (LSJ)
 - Links to new textbook sections for all Module 1 portfolio assignments:
     - [mastering forms](https://hellenike.github.io/textbook/practice/module1/portfolio/mastery/)
     - [analysis and translation](https://hellenike.github.io/textbook/practice/module1/portfolio/reading/)
@@ -29,8 +30,9 @@ Welcome to the course web site for Greek 101, section 1!
 
 Will cover no new material this week. Instead, we will apply the knowledge of verbs you gained in this module to longer portfolio assignments.  On Wednesday, we will explore word order in Greek.
 
+You can use this youtube video to practice reading aloud the reading selection for Module 1.
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tB0Lu1jF4Pw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### CBL
 
