@@ -10,4 +10,5 @@ nav_order: 14
 # Workshop: composition 1
 
 
-https://hellenike.github.io/textbook/practice/module1/portfolio/composition/
+In today's class, we will workshop your [first Greek composition assignment](https://hellenike.github.io/textbook/practice/module1/portfolio/composition/).
+
