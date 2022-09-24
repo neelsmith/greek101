@@ -37,9 +37,9 @@ Subjects, verbs, objects: [word order](../classes/wordorder/) and translation
 
 ## Module 2: nouns and adjectives
 
-✏️ substantives and the article
+✏️ [substantives](../classes/nouns/) and the article
 
-✏️ the genitive case
+✏️ the [genitive](../classes/genitive/) case
 
 ✏️ [Direct and indirect objects](../classes/dir-indir-objects/)
 
