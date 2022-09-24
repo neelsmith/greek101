@@ -30,7 +30,7 @@ Deadlines to note:
 
 | Dates | Monday | Wednesday | Friday | Notes |
 | ---: | :--- | :--- | :--- | :--- |
-| *Sep 26*, *Sep 28*, *Sep 30* | ✏️ substantives and the article | ✏️ the genitive case | ✏️ [Direct and indirect objects](../classes/dir-indir-objects/) | **Thu**: *📜 [Composition 1](https://hellenike.github.io/textbook/practice/module1/portfolio/composition/) due.* |
+| *Sep 26*, *Sep 28*, *Sep 30* | ✏️ [substantives](../classes/nouns/) and the article | ✏️ the [genitive](../classes/genitive/) case | ✏️ [Direct and indirect objects](../classes/dir-indir-objects/) | **Thu**: *📜 [Composition 1](https://hellenike.github.io/textbook/practice/module1/portfolio/composition/) due.* |
 | *Oct 3*, *Oct 5*, *Oct 7* | ✏️ adjectives  | attributive and predicate expressions | analyzing clauses | **Fri**: *Last class before fall break.* **Thu**: *📜 Mastering unit 2 forms due.* |
 | *Oct 10*, *Oct 12*, *Oct 14* | *fall break* | *fall break* | *fall break* | **Mon**: *✏️ First reflection exercise.* |
 | *Oct 17*, *Oct 19*, *Oct 21* | Reading Workshop | ✏️ pronouns | ✏️ prepositions | **Mon**: *Classes resume.* **Thu**: *📜 Reading assignment 2 due.* **Fri**: *⚠️ **Last day to submit revisions of Module 1 assignments**.* |
