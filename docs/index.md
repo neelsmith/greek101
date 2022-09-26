@@ -14,16 +14,10 @@ Welcome to the course web site for Greek 101, section 1!
 ## Announcements
 
 
-- Liddell-Scott-Jones *[Greek Lexicon](http://folio2.furman.edu/lsj/)* (LSJ)
-- Links to new textbook sections for all Module 1 portfolio assignments:
-    - [mastering forms](https://hellenike.github.io/textbook/practice/module1/portfolio/mastery/)
-    - [analysis and translation](https://hellenike.github.io/textbook/practice/module1/portfolio/reading/)
-    - [composition](https://hellenike.github.io/textbook/practice/module1/portfolio/composition/)
-- **Tues., Sept. 20**, change in office hours for this date only: 10:45-12:30
-
 
 ## Week at a glance: Sept. 26 - Sept. 30 
 
+- **Sept. 26**: [Vocabulary list](./module2/vocab/) for module 2 available
 
 ### MWF classes
 

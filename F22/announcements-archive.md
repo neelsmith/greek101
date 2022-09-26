@@ -2,6 +2,13 @@
 
 
 
+- Liddell-Scott-Jones *[Greek Lexicon](http://folio2.furman.edu/lsj/)* (LSJ)
+- Links to new textbook sections for all Module 1 portfolio assignments:
+    - [mastering forms](https://hellenike.github.io/textbook/practice/module1/portfolio/mastery/)
+    - [analysis and translation](https://hellenike.github.io/textbook/practice/module1/portfolio/reading/)
+    - [composition](https://hellenike.github.io/textbook/practice/module1/portfolio/composition/)
+- **Tues., Sept. 20**, change in office hours for this date only: 10:45-12:30
+
 - **Mon., Sept. 19**, check-in on verb forms: produce synopses of verbs in the imperfect and perfect tenses of the indicative for regular -ω verbs, -μι verbs; recognize and identify forms of the irregular verb δίδωμι.
 - New page with [tips and hints for review](./tips)
 - **First portfolio assignment** now available: [mastery of language features from module 1](https://hellenike.github.io/textbook/practice/module1/portfolio/mastery/) .
