@@ -1,9 +1,9 @@
 ---
 layout: page
 title: "Substantives and the article"
-parent: "Module 1: the Greek verb"
+parent: "Module 2: nouns and adjectives"
 grand_parent: "Schedule"
-nav_order: 16
+nav_order: 2
 ---
 
 
