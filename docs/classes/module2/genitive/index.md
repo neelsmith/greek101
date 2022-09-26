@@ -1,9 +1,9 @@
 ---
 layout: page
 title: "The nominative and genitive cases"
-parent: "Module 1: the Greek verb"
+parent: "Module 2: nouns and adjectives"
 grand_parent: "Schedule"
-nav_order: 18
+nav_order: 4
 ---
 
 
