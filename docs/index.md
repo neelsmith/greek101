@@ -14,40 +14,40 @@ Welcome to the course web site for Greek 101, section 1!
 ## Announcements
 
 
-- Liddell-Scott-Jones *[Greek Lexicon](http://folio2.furman.edu/lsj/)* (LSJ)
-- Links to new textbook sections for all Module 1 portfolio assignments:
-    - [mastering forms](https://hellenike.github.io/textbook/practice/module1/portfolio/mastery/)
-    - [analysis and translation](https://hellenike.github.io/textbook/practice/module1/portfolio/reading/)
-    - [composition](https://hellenike.github.io/textbook/practice/module1/portfolio/composition/)
-- **Tues., Sept. 20**, change in office hours for this date only: 10:45-12:30
 
+## Week at a glance: Sept. 26 - Sept. 30 
 
-
-## Week at a glance: Sept. 12-16
-
+- **Sept. 26**: [Vocabulary list](./module2/vocab/) for module 2 available
 
 ### MWF classes
 
-Will cover no new material this week. Instead, we will apply the knowledge of verbs you gained in this module to longer portfolio assignments.  On Wednesday, we will explore word order in Greek.
+We begin Module 2, "Nouns and adjectives," by learning how to use *cases* to express the function of nouns.  We focus on :
 
-You can use this youtube video to practice reading aloud the reading selection for Module 1.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tB0Lu1jF4Pw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+- *naming* the subject with the *nominative* case
+- using a noun to describe another noun with the *genitive* case
+- identifying the *direct object* of a verb with the *accusative* case
+- identifying the *indirect object* of a verb with the *dative* case
 
 ### CBL
 
-- Orientation to WAM visits. Please view this video prior to your CBL section.
+Small groups go to Worcester Art Museum for docent tours.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFSQikoteoY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Assignment:
+
+
+- In Canvas, upload a selfie of yourself in the WAM with some object you found interesting enough to want to look at again.  (This does not count as a separate grade, but is included as part of your attendance grade for this week's CBL section.)
 
 ### Due dates
 
 
-Written daily assignments: none
+Written daily assignments: 
+
+- Sunday: substantives
+- Tuesday: the nominative and genitive cases
+- Thursday: direct and indirect objects
 
 
 Portfolio assignment:
 
-- Thursday: [analysis and translation](https://hellenike.github.io/textbook/practice/module1/portfolio/reading/) of module 1 reading selection.
-
+- Thursday: [composition 1](https://hellenike.github.io/textbook/practice/module1/portfolio/composition/) 
 
