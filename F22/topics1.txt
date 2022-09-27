@@ -3,33 +3,33 @@
 
 
 *no classes*
-[Introduction to course](../classes/intro/)
+[Introduction to course](../classes/module1/intro/)
 
-✏️ [Accent](../classes/accent/)#**Written assignment for class due on Thurs. at 5:00**.
-
-
-✏️ The [aorist indicative](../classes/aorist/)
-🗣️ Mastering [verb forms](../classes/aorist-review/): active, middle and passive voices of the aorist
+✏️ [Accent](../classes/module1/accent/)#**Written assignment for class due on Thurs. at 5:00**.
 
 
-✏️ The [imperfect indicative](../classes/imperfect/)
+✏️ The [aorist indicative](../classes/module1/aorist/)
+🗣️ Mastering [verb forms](../classes/module1/aorist-review/): active, middle and passive voices of the aorist
 
 
-
-
-✏️ [Contract verbs](../classes/contracts/)
+✏️ The [imperfect indicative](../classes/module1/imperfect/)
 
 
 
-✏️ The [second aorist](../classes/aorist2/)
+
+✏️ [Contract verbs](../classes/module1/contracts/)
+
+
+
+✏️ The [second aorist](../classes/module1/aorist2/)
 
 Review of verb forms
 
-[Workshop](../classes/reading1/): reading assignment 1
+[Workshop](../classes/module1/reading1/): reading assignment 1
 
-Subjects, verbs, objects: [word order](../classes/wordorder/) and translation
+Subjects, verbs, objects: [word order](../classes/module1/wordorder/) and translation
 
-[Workshop](../classes/composition1/): composition 1
+[Workshop](../classes/module1/composition1/): composition 1
 
 
 
@@ -37,11 +37,11 @@ Subjects, verbs, objects: [word order](../classes/wordorder/) and translation
 
 ## Module 2: nouns and adjectives
 
-✏️ [substantives](../classes/nouns/) and the article
+✏️ [substantives](../classes/module2/nouns/) and the article
 
-✏️ the [genitive](../classes/genitive/) case
+✏️ the [genitive](../classes/module2/genitive/) case
 
-✏️ [Direct and indirect objects](../classes/dir-indir-objects/)
+✏️ [Direct and indirect objects](../classes/module2/dir-indir-objects/)
 
 
 
