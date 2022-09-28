@@ -21,7 +21,7 @@ Deadlines to note:
 
 | Dates | Monday | Wednesday | Friday | Notes |
 | ---: | :--- | :--- | :--- | :--- |
-| *Aug 29*, *Aug 31*, *Sep 2* | *no classes* | [Introduction to course](../classes/module1/intro/) | ✏️ [Accent](../classes/module1/accent/) | **Mon**: *Advising: no classes.* **Fri**. ***Written assignment for class due on Thurs. at 5:00**.* |
+| *Aug 29*, *Aug 31*, *Sep 2* | *no classes* | [Introduction to course](../classes/module1/intro/) | ✏️ [Accent](../classes/module1/accent/) | **Mon**: *Advising: no classes.* **Fri**. ** |
 | *Sep 5*, *Sep 7*, *Sep 9* | ✏️ The [aorist indicative](../classes/module1/aorist/) | 🗣️ Mastering [verb forms](../classes/module1/aorist-review/): active, middle and passive voices of the aorist | ✏️ The [imperfect indicative](../classes/module1/imperfect/) |  |
 | *Sep 12*, *Sep 14*, *Sep 16* | ✏️ [Contract verbs](../classes/module1/contracts/) | ✏️ The [second aorist](../classes/module1/aorist2/) | Review of verb forms | **Thu**: *📜 Mastering [unit 1](https://hellenike.github.io/textbook/practice/module1/portfolio/mastery/) due.* |
 | *Sep 19*, *Sep 21*, *Sep 23* | [Workshop](../classes/module1/reading1/): reading assignment 1 | Subjects, verbs, objects: [word order](../classes/module1/wordorder/) and translation | [Workshop](../classes/module1/composition1/): composition 1 | **Thu**: *📜 [Reading assignment](https://hellenike.github.io/textbook/practice/module1/portfolio/reading/) 1 due.* |

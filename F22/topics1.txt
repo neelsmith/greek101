@@ -4,26 +4,20 @@
 
 *no classes*
 [Introduction to course](../classes/module1/intro/)
-
-✏️ [Accent](../classes/module1/accent/)#**Written assignment for class due on Thurs. at 5:00**.
+✏️ [Accent](../classes/module1/accent/)#
 
 
 ✏️ The [aorist indicative](../classes/module1/aorist/)
 🗣️ Mastering [verb forms](../classes/module1/aorist-review/): active, middle and passive voices of the aorist
-
-
 ✏️ The [imperfect indicative](../classes/module1/imperfect/)
 
 
 
 
 ✏️ [Contract verbs](../classes/module1/contracts/)
-
-
-
 ✏️ The [second aorist](../classes/module1/aorist2/)
-
 Review of verb forms
+
 
 [Workshop](../classes/module1/reading1/): reading assignment 1
 
@@ -40,6 +34,8 @@ Subjects, verbs, objects: [word order](../classes/module1/wordorder/) and transl
 ✏️ [substantives](../classes/module2/nouns/) and the article
 ✏️ the [genitive](../classes/module2/genitive/) case
 demonstrative [pronouns](../classes/module2/pronouns/) and adjectives: nominative and genitive cases
+
+
 
 ✏️ [Direct and indirect objects](../classes/module2/dir-indir-objects/)
 ✏️ [adjectives](../classes/module2/adjectives/)
