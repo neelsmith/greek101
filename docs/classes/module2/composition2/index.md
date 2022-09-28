@@ -1,12 +1,10 @@
 ---
 layout: page
-title: Direct and indirect objects
+title: "Module 2 composition: workshop"
 parent: "Module 2: nouns and adjectives"
 grand_parent: "Schedule"
-nav_order: 10
+nav_order: 20
 ---
 
-# Direct and indirect objects
 
-
-TBA
+#  Module 2 composition: workshop
