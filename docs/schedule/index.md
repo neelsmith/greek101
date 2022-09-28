@@ -30,11 +30,11 @@ Deadlines to note:
 
 | Dates | Monday | Wednesday | Friday | Notes |
 | ---: | :--- | :--- | :--- | :--- |
-| *Sep 26*, *Sep 28*, *Sep 30* | ✏️ [substantives](../classes/module2/nouns/) and the article | ✏️ the [genitive](../classes/module2/genitive/) case | ✏️ [Direct and indirect objects](../classes/module2/dir-indir-objects/) | **Thu**: *📜 [Composition 1](https://hellenike.github.io/textbook/practice/module1/portfolio/composition/) due.* |
-| *Oct 3*, *Oct 5*, *Oct 7* | ✏️ adjectives  | attributive and predicate expressions | analyzing clauses | **Fri**: *Last class before fall break.* **Thu**: *📜 Mastering unit 2 forms due.* |
-| *Oct 10*, *Oct 12*, *Oct 14* | *fall break* | *fall break* | *fall break* | **Mon**: *✏️ First reflection exercise.* |
-| *Oct 17*, *Oct 19*, *Oct 21* | Reading Workshop | ✏️ pronouns | ✏️ prepositions | **Mon**: *Classes resume.* **Thu**: *📜 Reading assignment 2 due.* **Fri**: *⚠️ **Last day to submit revisions of Module 1 assignments**.* |
-| *Oct 24*, *Oct 26*, *Oct 28* | Composition Workshop | Reviewing substantive forms | Ancient views on grammatical gender | **Thu**: *📜 Composition 2 due.* |
+| *Sep 26*, *Sep 28*, *Sep 30* | ✏️ [substantives](../classes/module2/nouns/) and the article | ✏️ the [genitive](../classes/module2/genitive/) case | demonstrative [pronouns](../classes/module2/pronouns/) and adjectives: nominative and genitive cases | **Thu**: *📜 [Composition 1](https://hellenike.github.io/textbook/practice/module1/portfolio/composition/) due.* |
+| *Oct 3*, *Oct 5*, *Oct 7* | ✏️ [Direct and indirect objects](../classes/module2/dir-indir-objects/) | ✏️ [adjectives](../classes/module2/adjectives/) | analyzing [clauses](../classes/module2/clauses/) | **Fri**: *Last class before fall break.* **Thu**: *📜 Mastering unit 2 forms due.* |
+| *Oct 10*, *Oct 12*, *Oct 14* | ***fall break*** | ***fall break*** | ***fall break*** | **Mon**: *✏️ First reflection exercise.* |
+| *Oct 17*, *Oct 19*, *Oct 21* | ✏️ demonstrative [pronouns](../classes/module2/pronouns-all/): all cases | ✏️ [prepositions](../classes/module2/prepositions/) | Reading [workshop](../classes/module2/reading2/) | **Mon**: *Classes resume.* **Thu**: *📜 Reading assignment 2 due.* **Fri**: *⚠️ **Last day to submit revisions of Module 1 assignments**.* |
+| *Oct 24*, *Oct 26*, *Oct 28* | Composition [workshop](../classes/module2/composition2/) | Reviewing substantive forms | Ancient views on grammatical gender | **Thu**: *📜 Composition 2 due.* |
 
 ## Module 3: Participles
 

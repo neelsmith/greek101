@@ -38,29 +38,26 @@ Subjects, verbs, objects: [word order](../classes/module1/wordorder/) and transl
 ## Module 2: nouns and adjectives
 
 ✏️ [substantives](../classes/module2/nouns/) and the article
-
 ✏️ the [genitive](../classes/module2/genitive/) case
+demonstrative [pronouns](../classes/module2/pronouns/) and adjectives: nominative and genitive cases
 
 ✏️ [Direct and indirect objects](../classes/module2/dir-indir-objects/)
+✏️ [adjectives](../classes/module2/adjectives/)
+analyzing [clauses](../classes/module2/clauses/)
+
+
+***fall break***
+***fall break***
+***fall break***
 
 
 
-✏️ adjectives 
-attributive and predicate expressions
-analyzing clauses
+✏️ demonstrative [pronouns](../classes/module2/pronouns-all/): all cases
+✏️ [prepositions](../classes/module2/prepositions/)
+Reading [workshop](../classes/module2/reading2/)
 
 
-*fall break*
-*fall break*
-*fall break*
-
-
-Reading Workshop
-✏️ pronouns
-✏️ prepositions
-
-
-Composition Workshop
+Composition [workshop](../classes/module2/composition2/)
 Reviewing substantive forms
 Ancient views on grammatical gender
 

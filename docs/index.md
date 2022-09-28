@@ -21,12 +21,13 @@ Welcome to the course web site for Greek 101, section 1!
 
 ### MWF classes
 
-We begin Module 2, "Nouns and adjectives," by learning how to use *cases* to express the function of nouns.  We focus on :
+We begin Module 2, "Nouns and adjectives," by learning how to use *cases* to express the function of nouns.  This week, we focus on the nominative and genitive cases to express:
 
-- *naming* the subject with the *nominative* case
+- *naming* the subject of any finite verb or the predicate of a linking verb with the *nominative* case 
 - using a noun to describe another noun with the *genitive* case
-- identifying the *direct object* of a verb with the *accusative* case
-- identifying the *indirect object* of a verb with the *dative* case
+
+We learn how to use the article and the demonstrative pronouns together with nouns.
+
 
 ### CBL
 
@@ -44,7 +45,7 @@ Written daily assignments:
 
 - Sunday: substantives
 - Tuesday: the nominative and genitive cases
-- Thursday: direct and indirect objects
+
 
 
 Portfolio assignment:
