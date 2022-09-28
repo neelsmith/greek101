@@ -14,6 +14,7 @@ Welcome to the course web site for Greek 101, section 1!
 ## Announcements
 
 - **Sept. 28**: [Time table for CBL projects posted](./cblschedule/project/)
+- **Oct 3**: check-in on nouns in Module 2 vocabulary, and on nominative and genitive forms of the demonstrative pronouns.
 
 ## Week at a glance: Sept. 26 - Sept. 30 
 
