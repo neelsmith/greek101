@@ -1,5 +1,5 @@
 ---
-title: "Project schedule"
+title: "CBL project schedule"
 parent: "CBL schedule"
 layout: page
 nav_order: 2
@@ -7,9 +7,12 @@ has_children: true
 ---
 
 
-# Project schedule
+# CBL project schedule
 
-You will develop a fall-semester project with three phrases of review. Each review is worth two points: one for submission on time, and one for satisfactory completion.  Successfully completing each phase allows you to continue to the next phase.  The review phases are:
+As part of your CBL work, you will develop a fall-semester project. You are encouraged to work in small groups, and to develop a proposal of your own design.  (You will have the option of working in a small group on one of two default project options if you prefer.)
+
+
+Your project wil be evaluated in three review phases. Each review is worth two points: one for submission on time, and one for satisfactory completion.  Successfully completing each phase allows you to continue to the next phase.  The review phases are:
 
 1. Project proposal
 2. Completed draft or rehearsal
@@ -19,10 +22,10 @@ You will develop a fall-semester project with three phrases of review. Each revi
 
 ## 1. Project proposal
 
-You are encourage to work in small groups to submit a project proposal.  Your proposal should identify what kind of activity you would like to work on (developing material for a gallery handout, leading a docent tour, etc.), and what material on display in the WAM you want to focus on.  Please *identify material on display by museum inventory number*.  You will have the option of working in a small group on one of two default project options if you prefer.  Deadlines for review phase:
+Your proposal should identify what kind of activity you would like to work on (developing material for a gallery handout, leading a docent tour, etc.), and what material on display in the WAM you want to focus on.  Please *identify material on display by museum inventory number*.  Deadlines for the first review phase are:
 
-- **October 19**: initial project proposal submitted to your professor. If your group includes people from both sections of Greek 101, submit one copy to Professor Ebbott and one copy to Prof. Smith.  Your professor will review your proposal and evaluate it as satisfactory or unsatisfactory.  If you want to take part in one of the default project options, you must propose that in a written submission.
-- **October 26**: final project proposal.  If your initial proposal needed revision, you may submit a revision up until October 26.  At that time, if you have not defined a satisfactory project, you will be assigned to one of the default projects.
+- **October 19**: initial project proposal submitted to your professor. (If you want to participate in one of the default project options, you must propose that in a written submission.) If your group includes people from both sections of Greek 101, submit one copy to Professor Ebbott and one copy to Prof. Smith.  Your professor will review your proposal and evaluate it as satisfactory or unsatisfactory. 
+- **October 26**: final project proposal.  If your initial proposal needed revision, you may submit a revised version up until October 26.  At that time, if you have not defined a satisfactory project, you will be assigned to one of the default projects.
 
 ## 2. Completed draft or rehearsal
 
