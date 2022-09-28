@@ -24,7 +24,7 @@ You are encourage to work in small groups to submit a project proposal.  Your pr
 - **October 19**: initial project proposal submitted to your professor. If your group includes people from both sections of Greek 101, submit one copy to Professor Ebbott and one copy to Prof. Smith.  Your professor will review your proposal and evaluate it as satisfactory or unsatisfactory.  If you want to take part in one of the default project options, you must propose that in a written submission.
 - **October 26**: final project proposal.  If your initial proposal needed revision, you may submit a revision up until October 26.  At that time, if you have not defined a satisfactory project, you will be assigned to one of the default projects.
 
-## 2. Complete draft or rehearsal
+## 2. Completed draft or rehearsal
 
 Part of the feedback on your project proposal will be a timetable of one or more checkpoints to review your work in progress with specification of what will be included in a complete version of the project.
 
