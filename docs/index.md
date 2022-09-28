@@ -13,7 +13,7 @@ Welcome to the course web site for Greek 101, section 1!
 
 ## Announcements
 
-
+- **Sept. 28**: [Time table for CBL projects posted](./cblschedule/project/)
 
 ## Week at a glance: Sept. 26 - Sept. 30 
 

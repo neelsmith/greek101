@@ -17,21 +17,23 @@ You will develop a fall-semester project with three phrases of review. Each revi
 
 
 
-## Project proposal
+## 1. Project proposal
 
 You are encourage to work in small groups to submit a project proposal.  Your proposal should identify what kind of activity you would like to work on (developing material for a gallery handout, leading a docent tour, etc.), and what material on display in the WAM you want to focus on.  Please *identify material on display by museum inventory number*.  You will have the option of working in a small group on one of two default project options if you prefer.  Deadlines for review phase:
 
-- Oct. 19: initial project proposal submitted to your professor. If your group includes people from both sections of Greek 101, submit one copy to Professor Ebbott and one copy to Prof. Smith.  Your professor will review your proposal and evaluate it as satisfactory or unsatisfactory.  If you want to take part in one of the default project options, you must propose that in a written submission.
-- Oct. 26: final project proposal.  If your initial proposal needed revision, you may submit a revision up until Oct. 26.  At that time, if you have not defined a satisfactory project, you will be assigned to one of the default projects.
+- **October 19**: initial project proposal submitted to your professor. If your group includes people from both sections of Greek 101, submit one copy to Professor Ebbott and one copy to Prof. Smith.  Your professor will review your proposal and evaluate it as satisfactory or unsatisfactory.  If you want to take part in one of the default project options, you must propose that in a written submission.
+- **October 26**: final project proposal.  If your initial proposal needed revision, you may submit a revision up until October 26.  At that time, if you have not defined a satisfactory project, you will be assigned to one of the default projects.
 
-## Complete draft or rehearsal
+## 2. Complete draft or rehearsal
 
-Part of the feedback on your project proposal will be a timetable of one or more checkpoints to review your work in progress.  This will culminate in a deadline for a version of your final project.  If your final project is something like a written gallery guide, the deadline will be for a complete draft; if your final project is an event (talk, performance, docent tour), the deadline will be for a dress rehearsal.
+Part of the feedback on your project proposal will be a timetable of one or more checkpoints to review your work in progress with specification of what will be included in a complete version of the project.
 
-Complete drafts or dress rehearsals will be due by November 12.
+These checkpoints will culminate in submission of a complete version of the project.  If your final project is something like a written gallery guide, the submission will be a complete draft for review; if your final project is an event (talk, performance, docent tour), the submission will be a dress rehearsal.
+
+Complete drafts or dress rehearsals will be due by **November 12**.
 
 
-## Final submission or performance
+## 3. Final submission or performance
 
-All fall-semester work must be completed by Dec. 12 (end of study period).
+All fall-semester work must be completed by **December 12** (end of study period).
 
