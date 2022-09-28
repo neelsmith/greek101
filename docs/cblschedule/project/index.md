@@ -12,7 +12,7 @@ has_children: true
 You will develop a fall-semester project with three phrases of review. Each review is worth two points: one for submission on time, and one for satisfactory completion.  Successfully completing each phase allows you to continue to the next phase.  The review phases are:
 
 1. Project proposal
-2. Complete draft or rehearsal
+2. Completed draft or rehearsal
 3. Final submission or performance
 
 
