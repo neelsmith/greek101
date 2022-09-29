@@ -13,6 +13,8 @@ Welcome to the course web site for Greek 101, section 1!
 
 ## Announcements
 
+
+- **Reminder**: please include both question and answer in your written homework submissions.
 - **Sept. 29**:  Please note revised deadlines:
     - deadlines extended for Module 2 portfolio assignments
     - one daily written assignment eliminated: to keep the computation of course grades unchanged, everyone has received full credit for this assignment in Canvas
