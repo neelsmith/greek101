@@ -13,6 +13,9 @@ Welcome to the course web site for Greek 101, section 1!
 
 ## Announcements
 
+- **Sept. 29**:  Please note revised deadlines:
+    - deadlines extended for Module 2 portfolio assignments
+    - one daily written assignment eliminated: to keep the computation of course grades unchanged, everyone has received full credit for this assignment in Canvas
 - **Sept. 28**: [Time table for CBL projects posted](./cblschedule/project/)
 - **Oct 3**: check-in on nouns in Module 2 vocabulary, and on nominative and genitive forms of the demonstrative pronouns.
 

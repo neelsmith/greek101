@@ -38,18 +38,18 @@ demonstrative [pronouns](../classes/module2/pronouns/) and adjectives: nominativ
 
 
 ✏️ [Direct and indirect objects](../classes/module2/dir-indir-objects/)
-✏️ [adjectives](../classes/module2/adjectives/)
-analyzing [clauses](../classes/module2/clauses/)
-
-
-***fall break***
-***fall break***
-***fall break***
-
-
-
-✏️ demonstrative [pronouns](../classes/module2/pronouns-all/): all cases
 ✏️ [prepositions](../classes/module2/prepositions/)
+✏️ [adjectives](../classes/module2/adjectives/) and demonstrative pronouns
+
+
+
+***fall break***
+***fall break***
+***fall break***
+
+
+Practice with noun phrases and prepositional phrases
+Analyzing [clauses](../classes/module2/clauses/)
 Reading [workshop](../classes/module2/reading2/)
 
 
