@@ -39,7 +39,7 @@ demonstrative [pronouns](../classes/module2/pronouns/) and adjectives: nominativ
 
 ✏️ [Direct and indirect objects](../classes/module2/dir-indir-objects/)
 ✏️ [prepositions](../classes/module2/prepositions/)
-✏️ [adjectives](../classes/module2/adjectives/) and demonstrative pronouns
+✏️ [adjectives](../classes/module2/pronouns/) and demonstrative pronouns
 
 
 
