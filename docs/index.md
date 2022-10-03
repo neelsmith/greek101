@@ -15,47 +15,27 @@ Welcome to the course web site for Greek 101, section 1!
 
 
 - **Reminder**: please include both question and answer in your written homework submissions.
-- **Sept. 29**:  Prepositions added to required vocabulary list for Module 2
-- **Sept. 29**:  Please note revised deadlines:
-    - deadlines extended for Module 2 portfolio assignments
-    - one daily written assignment eliminated: to keep the computation of course grades unchanged, everyone has received full credit for this assignment in Canvas
-- **Sept. 28**: [Time table for CBL projects posted](./cblschedule/project/)
-- **Oct 3**: check-in on nouns in Module 2 vocabulary, and on nominative and genitive forms of the demonstrative pronouns.
 
-## Week at a glance: Sept. 26 - Sept. 30 
 
-- **Sept. 26**: [Vocabulary list](./module2/vocab/) for module 2 available
+## Week at a glance: Oct. 3 - Oct. 7
 
 ### MWF classes
 
-We begin Module 2, "Nouns and adjectives," by learning how to use *cases* to express the function of nouns.  This week, we focus on the nominative and genitive cases to express:
-
-- *naming* the subject of any finite verb or the predicate of a linking verb with the *nominative* case 
-- using a noun to describe another noun with the *genitive* case
-
-We learn how to use the article and the demonstrative pronouns together with nouns.
 
 
 ### CBL
 
-Small groups go to Worcester Art Museum for docent tours.
+This week's CBL sections will discuss  ideas for project proposals.
 
-Assignment:
-
-
-- In Canvas, upload a selfie of yourself in the WAM with some object you found interesting enough to want to look at again.  (This does not count as a separate grade, but is included as part of your attendance grade for this week's CBL section.)
 
 ### Due dates
 
 
 Written daily assignments: 
 
-- Sunday: substantives
-- Tuesday: the nominative and genitive cases
+- Sunday: direct and indirect objects
+- Tuesday: prepositions
+- Thursday: adjectives and demonstrative pronouns
 
 
-
-Portfolio assignment:
-
-- Thursday: [composition 1](https://hellenike.github.io/textbook/practice/module1/portfolio/composition/) 
 
