@@ -1,7 +1,11 @@
 # Announcements
 
 
-
+- **Sept. 29**:  Prepositions added to required vocabulary list for Module 2
+- **Sept. 29**:  Please note revised deadlines:
+    - deadlines extended for Module 2 portfolio assignments
+    - one daily written assignment eliminated: to keep the computation of course grades unchanged, everyone has received full credit for this assignment in Canvas
+- **Sept. 28**: [Time table for CBL projects posted](./cblschedule/project/)
 - Liddell-Scott-Jones *[Greek Lexicon](http://folio2.furman.edu/lsj/)* (LSJ)
 - Links to new textbook sections for all Module 1 portfolio assignments:
     - [mastering forms](https://hellenike.github.io/textbook/practice/module1/portfolio/mastery/)

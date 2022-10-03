@@ -15,11 +15,6 @@ Welcome to the course web site for Greek 101, section 1!
 
 
 - **Reminder**: please include both question and answer in your written homework submissions.
-- **Sept. 29**:  Prepositions added to required vocabulary list for Module 2
-- **Sept. 29**:  Please note revised deadlines:
-    - deadlines extended for Module 2 portfolio assignments
-    - one daily written assignment eliminated: to keep the computation of course grades unchanged, everyone has received full credit for this assignment in Canvas
-- **Sept. 28**: [Time table for CBL projects posted](./cblschedule/project/)
 - **Oct 3**: check-in on nouns in Module 2 vocabulary, and on nominative and genitive forms of the demonstrative pronouns.
 
 ## Week at a glance: Sept. 26 - Sept. 30 
