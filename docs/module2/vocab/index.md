@@ -12,18 +12,32 @@ nav_order: -1
 
 ### Nouns
 
+- ἀγορά, ἀγορᾶς, ἡ “assembly, market, forum”
+- ἀγρός, ἀγροῦ, ὁ “field, land, farm”
+- ἄνθρωπος, ἀνθρώπου, ὁ or ἡ “person, human being”
+- γνώμη, γνώμης, ἡ “judgment, opinion”
+- δίκη, δίκης, ἡ “order, right, judgment, lawsuit”
+- ζημία, ζημίας, ἡ “penalty”
+- θάνατος, θανάτου, ὁ “death”
+- θεράπαινα, θεραπαίνης, ἡ “female slave, servant”
+- θύρα, θύρας, ἡ “door”
+- μάρτυς, μάρτυρος, ὁ or ἡ, “witness”
+- νόμος, νόμου, ὁ “law, custom”
+- οἰκία, οἰκίας, ἡ “house, dwelling”
+- παιδίον, παιδίου, τό “young child” or “young enslaved person”
+- πολίτης, πολίτου, ὁ “citizen”
+- πράγμα, πράγματος, τό “deed, act, matter, thing”
+- τιμωρία, τιμωρίας, ἡ “vengeance, retribution, penalty”
+- χρόνος, χρόνου, ὁ “time”
 
-- ἀγορά, ἀγορᾶς, ἡ, "market place"
-- ἀγρός, ἀγροῦ, ὁ, "field"
-- ἄνθρωπος, ἀνθρώπου, ὁ or ἡ, "person"
-- γνώμη, γνώμης, ἡ, "judgment, opinion"
-- θάνατος, θανάτου, ὁ, "death"
-- θεράπαινα, θεραπαίνης, ἡ, "female servant, slave, attendant"
-- παιδίον, παιδίου, τό, "child; slave"
-- πολίτης, πολίτου, ὁ, "citizen"
-- πράγμα, πράγματος, τό, "matter, affair"
-- τιμωρία, τιμωρίας, ἡ, "vengeance"
-- χρόνος, χρόνου, ὁ, "time"
+An irregular noun:  γυνή, γυναικός, ἡ, "woman." Note that the endings are all what you would expect for a third declension noun with genitive singular γυναικός: the only irregularity is that three forms do not have the "correct" persistent accent.  You do not have to produce these forms actively, but you should be able to recognize and identify them:
+
+| Case  | Singular | Plural |
+| --- | --- | --- |
+| Nominative  | γυνή | γυναῖκες |
+| Genitive  | γυναικός   | γυναικῶν |
+| Dative  | γυναικί | γυναιξί |
+| Accusative  | γυναῖκα | γυναῖκας |
 
 
 
@@ -61,4 +75,37 @@ Common prepositions that may take more than one case:
     - with dative	"under (stationary), at the hands of"
     - with accusative	"under (motion toward)"
 
+
+
+### Adjectives
+
+
+- ἀγαθός, ἀγαθή, ἀγαθόν "good"
+- δίκαιος, δίκαια, δίκαιον "just, lawful, right"
+- ἔξαρνος, ον, "denying"
+- φίλος, φίλη, φίλον "beloved, dear"
+
+
+An irregular adjective: πᾶς, πᾶσα, πᾶν, "all, every"
+
+
+**Singular**:
+
+|  Case | Masculine | Feminine | Neuter |
+| --- | --- | --- | --- | 
+| Nominative  | πᾶς  | πᾶσα  | πᾶν | 
+| Genitive  | παντός  | πάσης   | παντός  | 
+| Dative  | παντί  | πάσῃ | παντί | 
+| Accusative  | πάντα | πᾶσαν | πᾶν  | 
+
+
+
+**Plural**:
+
+|  Case  | Masculine | Feminine | Neuter |
+| --- | --- | --- | --- | 
+| Nominative  |  πάντες  | πᾶσαι   | πάντα   |
+| Genitive  |  πάντων   | πασῶν  | πάντων  |
+| Dative  | πᾶσι or πᾶσιν | πάσαις  | πᾶσι or πᾶσιν |
+| Accusative  |  πάντας   | πάσας   | πάντα   |
 

@@ -1,6 +1,9 @@
 # Announcements
 
 
+
+
+- **Reminder**: please include both question and answer in your written homework submissions.
 - **Oct 3**: check-in on nouns in Module 2 vocabulary, and on nominative and genitive forms of the demonstrative pronouns.
 - **Sept. 29**:  Prepositions added to required vocabulary list for Module 2
 - **Sept. 29**:  Please note revised deadlines:
