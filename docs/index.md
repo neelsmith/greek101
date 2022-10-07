@@ -13,8 +13,24 @@ Welcome to the course web site for Greek 101, section 1!
 
 ## Announcements
 
+- **Oct. 7**: final additions to [Module 2 vocabulary list](./module2/vocab) including adjectives and few more nouns
+- **Reminder**: the module summary on pp. 97-101 or your textbook has all the vocabulary and forms you should know for Module 2
 
-- **Reminder**: please include both question and answer in your written homework submissions.
+
+### Everything you need for module 2 mastery assignment
+
+- Review from module 1: 
+    - third person of imperfect and aorist indicative (all 3 voices)
+     - the irregular verb "to be"
+     - the irregular verb δίδωμι 
+     - the irregular augment on ἔχω in the imperfect
+- Regular forms to review from module 2: 
+    - nominative, genitive, dative and accusative of nouns
+    - the article
+- Some irregular forms to review:
+    - irregular-looking forms of pronouns (but compare the article for common patterns!)
+    - the irregular adjective πᾶς,	πᾶσα, πᾶν
+    - the irregular noun γυνή, γυναικός
 
 
 ## Week at a glance: Oct. 3 - Oct. 7
@@ -36,6 +52,3 @@ Written daily assignments:
 - Sunday: direct and indirect objects
 - Tuesday: prepositions
 - Thursday: adjectives and demonstrative pronouns
-
-
-
