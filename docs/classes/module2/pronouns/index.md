@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Pronouns and adjectives
-parent: "Module 2: nouns and adjectives"
+parent: "Module 2: pronouns and adjectives"
 grand_parent: "Schedule"
 nav_order: 8
 ---
