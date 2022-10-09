@@ -13,6 +13,9 @@ Welcome to the course web site for Greek 101, section 1!
 
 ## Announcements
 
+
+
+- **Oct. 9**: initial draft of Module 2 portfolio assignment: [mastery](./classes/module2/portfolio-mastery/)
 - **Oct. 7**: final additions to [Module 2 vocabulary list](./module2/vocab) including adjectives and few more nouns
 - **Reminder**: the module summary on pp. 97-101 or your textbook has all the vocabulary and forms you should know for Module 2
 
