@@ -13,45 +13,18 @@ Welcome to the course web site for Greek 101, section 1!
 
 ## Announcements
 
+- Portfolio assignments for module 2:
+    - [mastery](./classes/module2/portfolio-mastery/)
+    - [analysis](https://hellenike.github.io/textbook/practice/module2/portfolio/reading/)
+    - [composition](https://hellenike.github.io/textbook/practice/module2/portfolio/composition/)
 
 
-- **Oct. 9**: initial draft of Module 2 portfolio assignment: [mastery](./classes/module2/portfolio-mastery/)
-- **Oct. 7**: final additions to [Module 2 vocabulary list](./module2/vocab) including adjectives and few more nouns
-- **Reminder**: the module summary on pp. 97-101 or your textbook has all the vocabulary and forms you should know for Module 2
-
-
-### Everything you need for module 2 mastery assignment
-
-- Review from module 1: 
-    - third person of imperfect and aorist indicative (all 3 voices)
-     - the irregular verb "to be"
-     - the irregular verb δίδωμι 
-     - the irregular augment on ἔχω in the imperfect
-- Regular forms to review from module 2: 
-    - nominative, genitive, dative and accusative of nouns
-    - the article
-- Some irregular forms to review:
-    - irregular-looking forms of pronouns (but compare the article for common patterns!)
-    - the irregular adjective πᾶς,	πᾶσα, πᾶν
-    - the irregular noun γυνή, γυναικός
-
-
-## Week at a glance: Oct. 3 - Oct. 7
+## Week at a glance: Oct. 17 - Oct. 21
 
 ### MWF classes
 
-
+We will practice applying skills you have learned in Modules 1 and 2, and will workshop the Module 2 mastery and analysis portfolio assignments.
 
 ### CBL
 
-This week's CBL sections will discuss  ideas for project proposals.
-
-
-### Due dates
-
-
-Written daily assignments: 
-
-- Sunday: direct and indirect objects
-- Tuesday: prepositions
-- Thursday: adjectives and demonstrative pronouns
+- **NB**: [project proposal](./cblschedule/project/) due on Wednesday
