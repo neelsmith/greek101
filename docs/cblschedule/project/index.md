@@ -24,7 +24,7 @@ Your project wil be evaluated in three review phases. Each review is worth two p
 
 Your proposal should identify what kind of activity you would like to work on (developing material for a gallery handout, leading a docent tour, etc.), and what material on display in the WAM you want to focus on.  Please *identify material on display by museum inventory number*.  Deadlines for the first review phase are:
 
-- **October 19**: initial project proposal submitted to your professor. (If you want to participate in one of the default project options, you must propose that in a written submission.) If your group includes people from both sections of Greek 101, submit one copy to Professor Ebbott and one copy to Prof. Smith.  Your professor will review your proposal and evaluate it as satisfactory or unsatisfactory. 
+- **October 20**: initial project proposal submitted to your professor. (If you want to participate in one of the default project options, you must propose that in a written submission.) If your group includes people from both sections of Greek 101, submit one copy to Professor Ebbott and one copy to Prof. Smith.  Your professor will review your proposal and evaluate it as satisfactory or unsatisfactory. Submit your proposal to me by uploading a PDF in Canvas. 
 - **October 26**: final project proposal.  If your initial proposal needed revision, you may submit a revised version up until October 26.  At that time, if you have not defined a satisfactory project, you will be assigned to one of the default projects.
 
 ## 2. Completed draft or rehearsal
