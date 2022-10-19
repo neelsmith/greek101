@@ -13,6 +13,7 @@ Welcome to the course web site for Greek 101, section 1!
 
 ## Announcements
 
+- CBL project proposal: due Thursday, Oct. 20 (5:00 pm). Upload PDF in canvas.
 - Portfolio assignments for module 2:
     - [mastery](./classes/module2/portfolio-mastery/)
     - [analysis](https://hellenike.github.io/textbook/practice/module2/portfolio/reading/)
@@ -27,4 +28,4 @@ We will practice applying skills you have learned in Modules 1 and 2, and will w
 
 ### CBL
 
-- **NB**: [project proposal](./cblschedule/project/) due on Wednesday
+- **NB**: [project proposal](./cblschedule/project/) due on Thursday
