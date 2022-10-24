@@ -3,7 +3,7 @@
 
 
 
-
+- CBL project proposal: due Thursday, Oct. 20 (5:00 pm). Upload PDF in canvas.
 - **Oct. 9**: initial draft of Module 2 portfolio assignment: [mastery](./classes/module2/portfolio-mastery/)
 - **Oct. 7**: final additions to [Module 2 vocabulary list](./module2/vocab) including adjectives and few more nouns
 

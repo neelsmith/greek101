@@ -34,7 +34,7 @@ Deadlines to note:
 | *Oct 3*, *Oct 5*, *Oct 7* | ✏️ [Direct and indirect objects](../classes/module2/dir-indir-objects/) | ✏️ [prepositions](../classes/module2/prepositions/) | ✏️ demonstrative [pronouns](../classes/module2/pronouns/)  and adjectives | **Fri**: *Last class before fall break.* |
 | *Oct 10*, *Oct 12*, *Oct 14* | ***fall break*** | ***fall break*** | ***fall break*** |  |
 | *Oct 17*, *Oct 19*, *Oct 21* | Ancient views of grammatical [gender](../classes/module2/gender/) | Analyzing [clauses](../classes/module2/clauses/) | Reading [workshop](../classes/module2/reading2/) | **Mon**: *Classes resume.* **Tue**: *📜 Mastering unit 2 forms due.* **Thu**: *📜 Reading assignment 2 due.* **Fri**: *⚠️ **Last day to submit revisions of Module 1 assignments**.* |
-| *Oct 24*, *Oct 26*, *Oct 28* | Composition [workshop](../classes/module2/composition2/) | Reviewing substantive forms | TBA | **Tue**: *✏️ First reflection exercise.* **Thu**: *📜 Composition 2 due.* |
+| *Oct 24*, *Oct 26*, *Oct 28* | Reviewing substantive forms | Composition [workshop](../classes/module2/composition2/) | TBA | **Tue**: *✏️ First reflection exercise.* **Thu**: *📜 Composition 2 due.* |
 
 ## Module 3: Participles
 

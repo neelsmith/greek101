@@ -13,19 +13,16 @@ Welcome to the course web site for Greek 101, section 1!
 
 ## Announcements
 
-- CBL project proposal: due Thursday, Oct. 20 (5:00 pm). Upload PDF in canvas.
+- Module 2 review and paradigms:  
 - Portfolio assignments for module 2:
     - [mastery](./classes/module2/portfolio-mastery/)
     - [analysis](https://hellenike.github.io/textbook/practice/module2/portfolio/reading/)
     - [composition](https://hellenike.github.io/textbook/practice/module2/portfolio/composition/)
 
 
-## Week at a glance: Oct. 17 - Oct. 21
+
+## Week at a glance: Oct. 24 - Oct. 28
 
 ### MWF classes
 
-We will practice applying skills you have learned in Modules 1 and 2, and will workshop the Module 2 mastery and analysis portfolio assignments.
-
-### CBL
-
-- **NB**: [project proposal](./cblschedule/project/) due on Thursday
+Review and practice with substantives; workshop composition 2.
