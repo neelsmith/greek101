@@ -13,7 +13,7 @@ Welcome to the course web site for Greek 101, section 1!
 
 ## Announcements
 
-- Module 2 review and paradigms:  
+- Reviewing module 2 paradigms:  textbook pp. 97-101
 - Portfolio assignments for module 2:
     - [mastery](./classes/module2/portfolio-mastery/)
     - [analysis](https://hellenike.github.io/textbook/practice/module2/portfolio/reading/)
