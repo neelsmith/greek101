@@ -13,7 +13,9 @@ Welcome to the course web site for Greek 101, section 1!
 
 ## Announcements
 
-- Reviewing module 2 paradigms:  textbook pp. 97-101
+- Reviewing module 2 paradigms:  
+    - for nouns and adjectives: textbook pp. 97-101
+    - for pronouns: [this homework](./classes/module2/pronouns/)
 - Portfolio assignments for module 2:
     - [mastery](./classes/module2/portfolio-mastery/)
     - [analysis](https://hellenike.github.io/textbook/practice/module2/portfolio/reading/)
