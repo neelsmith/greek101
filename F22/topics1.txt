@@ -53,8 +53,8 @@ Analyzing [clauses](../classes/module2/clauses/)
 Reading [workshop](../classes/module2/reading2/)
 
 
-Composition [workshop](../classes/module2/composition2/)
 Reviewing substantive forms
+Composition [workshop](../classes/module2/composition2/)
 TBA
 
 ## Module 3: Participles
