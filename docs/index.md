@@ -13,6 +13,11 @@ Welcome to the course web site for Greek 101, section 1!
 
 ## Announcements
 
+
+
+- CBL deadlines: 
+    - revised proposal due in class on **Friday, Oct.  28**
+    - last date for submission of complete draft or scheduled dress rehearsal of project:  **Nov. 18** (Friday before Thanksgiving)
 - Reviewing module 2 paradigms:  
     - for nouns and adjectives: textbook pp. 97-101
     - for pronouns: [this homework](./classes/module2/pronouns/)
@@ -28,3 +33,8 @@ Welcome to the course web site for Greek 101, section 1!
 ### MWF classes
 
 Review and practice with substantives; workshop composition 2.
+
+
+### CBL sections
+
+- group conferences in this week's CBL sections
