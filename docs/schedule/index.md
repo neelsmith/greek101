@@ -40,8 +40,8 @@ Deadlines to note:
 
 | Dates | Monday | Wednesday | Friday | Notes |
 | ---: | :--- | :--- | :--- | :--- |
-| *Oct 31*, *Nov 2*, *Nov 4* | participles | ✏️ present participle | attributive and circumstantial participles | **Thu**: *📜 Mastering unit 3 forms due.* |
-| *Nov 7*, *Nov 9*, *Nov 11* | ✏️ aorist participles | Mastering participle forms | reading | **Thu**: *📜 Reading assignment 3 due.* |
+| *Oct 31*, *Nov 2*, *Nov 4* | [Participles](../classes/module3/participles/): formation | ✏️ [attributive](../classes/module3/attributive/) participles | ✏️ [circumstantial](module3/circumstantial) participles | **Thu**: *📜 Mastering unit 3 forms due.* |
+| *Nov 7*, *Nov 9*, *Nov 11* | aorist participles | Mastering participle forms | reading | **Thu**: *📜 Reading assignment 3 due.* |
 
 ## Module 4: Subordination
 

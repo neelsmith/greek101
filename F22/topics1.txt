@@ -59,15 +59,14 @@ Conceptual background to participles
 
 ## Module 3: Participles
 
-participles
+[Participles](../classes/module3/participles/): formation
 
-✏️ present participle
+✏️ [attributive](../classes/module3/attributive/) participles
 
-attributive and circumstantial participles
+✏️ [circumstantial](module3/circumstantial) participles
 
 
-
-✏️ aorist participles
+aorist participles
 
 Mastering participle forms
 
