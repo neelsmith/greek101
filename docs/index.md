@@ -13,28 +13,21 @@ Welcome to the course web site for Greek 101, section 1!
 
 ## Announcements
 
+- CBL schedule: 
+    - **no formal CBL meeting** on Nov. 9 - Nov. 10.
+    - **final draft/dress rehearsal** must be completed by Nov. 18
 
 
-- CBL deadlines: 
-    - revised proposal due in class on **Friday, Oct.  28**
-    - last date for submission of complete draft or scheduled dress rehearsal of project:  **Nov. 18** (Friday before Thanksgiving)
-- Reviewing module 2 paradigms:  
-    - for nouns and adjectives: textbook pp. 97-101
-    - for pronouns: [this homework](./classes/module2/pronouns/)
-- Portfolio assignments for module 2:
-    - [mastery](./classes/module2/portfolio-mastery/)
-    - [analysis](https://hellenike.github.io/textbook/practice/module2/portfolio/reading/)
-    - [composition](https://hellenike.github.io/textbook/practice/module2/portfolio/composition/)
-
-
-
-## Week at a glance: Oct. 24 - Oct. 28
+## Week at a glance: Oct. 31 - Nov. 4
 
 ### MWF classes
 
-Review and practice with substantives; workshop composition 2.
+We introduce the glory of the Greek language: the participle!
 
+- formation of aorist and present participles
+- understanding participles in **attributive position**
+- understanding participles in **circumstantial position**
 
 ### CBL sections
 
-- group conferences in this week's CBL sections
+- CBL for **Nov. 2 - Nov. 3**: work on projects. 

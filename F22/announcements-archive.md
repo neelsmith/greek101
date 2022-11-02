@@ -3,6 +3,18 @@
 
 
 
+- CBL deadlines: 
+    - revised proposal due in class on **Friday, Oct.  28**
+    - last date for submission of complete draft or scheduled dress rehearsal of project:  **Nov. 18** (Friday before Thanksgiving)
+- Reviewing module 2 paradigms:  
+    - for nouns and adjectives: textbook pp. 97-101
+    - for pronouns: [this homework](./classes/module2/pronouns/)
+- Portfolio assignments for module 2:
+    - [mastery](./classes/module2/portfolio-mastery/)
+    - [analysis](https://hellenike.github.io/textbook/practice/module2/portfolio/reading/)
+    - [composition](https://hellenike.github.io/textbook/practice/module2/portfolio/composition/)
+
+
 - CBL project proposal: due Thursday, Oct. 20 (5:00 pm). Upload PDF in canvas.
 - **Oct. 9**: initial draft of Module 2 portfolio assignment: [mastery](./classes/module2/portfolio-mastery/)
 - **Oct. 7**: final additions to [Module 2 vocabulary list](./module2/vocab) including adjectives and few more nouns

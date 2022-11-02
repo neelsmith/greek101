@@ -33,7 +33,7 @@ Part of the feedback on your project proposal will be a timetable of one or more
 
 These checkpoints will culminate in submission of a complete version of the project.  If your final project is something like a written gallery guide, the submission will be a complete draft for review; if your final project is an event (talk, performance, docent tour), the submission will be a dress rehearsal.
 
-Complete drafts or dress rehearsals will be due by **November 12**.
+Complete drafts or dress rehearsals will be due by **November 18**.
 
 
 ## 3. Final submission or performance
