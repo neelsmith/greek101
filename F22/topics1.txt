@@ -63,7 +63,7 @@ Conceptual background to participles
 
 ✏️ [attributive](../classes/module3/attributive/) participles
 
-✏️ [circumstantial](module3/circumstantial) participles
+✏️ [circumstantial](../classes/module3/circumstantial) participles
 
 
 aorist participles
