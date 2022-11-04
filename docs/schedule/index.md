@@ -41,7 +41,7 @@ Deadlines to note:
 | Dates | Monday | Wednesday | Friday | Notes |
 | ---: | :--- | :--- | :--- | :--- |
 | *Oct 31*, *Nov 2*, *Nov 4* | [Participles](../classes/module3/participles/): formation | ✏️ [attributive](../classes/module3/attributive/) participles | ✏️ [circumstantial](../classes/module3/circumstantial/) participles | **Thu**: *📜 Mastering unit 3 forms due.* |
-| *Nov 7*, *Nov 9*, *Nov 11* | The genitive [absolute](../classes/module3/absolute/), and participles of contract verbs | The [supplementary](../classes/module3/supplementary/) participle | Reading with participles | **Thu**: *📜 Reading assignment 3 due.* |
+| *Nov 7*, *Nov 9*, *Nov 11* | The participles of [contract](../classes/module3/contracts/) verbs | The [supplementary](../classes/module3/supplementary/) participle | Reading with participles | **Thu**: *📜 Reading assignment 3 due.* |
 
 ## Module 4: Subordination
 
