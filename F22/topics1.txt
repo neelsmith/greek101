@@ -65,7 +65,7 @@ Conceptual background to participles
 
 ✏️ [circumstantial](../classes/module3/circumstantial/) participles
 
-The genitive [absolute](../classes/module3/absolute/), and participles of contract verbs
+The participles of [contract](../classes/module3/contracts/) verbs
 
 The [supplementary](../classes/module3/supplementary/) participle
 
