@@ -33,8 +33,8 @@ Deadlines to note:
 | *Sep 26*, *Sep 28*, *Sep 30* | ✏️ [substantives](../classes/module2/nouns/) and the article | ✏️ the [genitive](../classes/module2/genitive/) case | demonstrative [pronouns](../classes/module2/pronouns/) and adjectives: nominative and genitive cases | **Thu**: *📜 [Composition 1](https://hellenike.github.io/textbook/practice/module1/portfolio/composition/) due.* |
 | *Oct 3*, *Oct 5*, *Oct 7* | ✏️ [Direct and indirect objects](../classes/module2/dir-indir-objects/) | ✏️ [prepositions](../classes/module2/prepositions/) | ✏️ demonstrative [pronouns](../classes/module2/pronouns/)  and adjectives | **Fri**: *Last class before fall break.* |
 | *Oct 10*, *Oct 12*, *Oct 14* | ***fall break*** | ***fall break*** | ***fall break*** |  |
-| *Oct 17*, *Oct 19*, *Oct 21* | Ancient views of grammatical [gender](../classes/module2/gender/) | Analyzing [clauses](../classes/module2/clauses/) | Reading [workshop](../classes/module2/reading2/) | **Mon**: *Classes resume.* **Tue**: *📜 Mastering unit 2 forms due.* **Thu**: *📜 Reading assignment 2 due.* **Fri**: *⚠️ **Last day to submit revisions of Module 1 assignments**.* |
-| *Oct 24*, *Oct 26*, *Oct 28* | Reviewing substantive forms | Composition [workshop](../classes/module2/composition2/) | Conceptual background to participles | **Tue**: *✏️ First reflection exercise.* **Thu**: *📜 Composition 2 due.* |
+| *Oct 17*, *Oct 19*, *Oct 21* | Ancient views of grammatical [gender](../classes/module2/gender/) | Analyzing [clauses](../classes/module2/clauses/) | Reading [workshop](../classes/module2/reading2/) | **Mon**: *Classes resume.* **Tue**: *📜 Mastering [unit 2](https://hellenike.github.io/textbook/practice/module2/portfolio/mastery/) forms due.* **Thu**: *📜 [Reading assignment](https://hellenike.github.io/textbook/practice/module2/portfolio/reading/) 2 due.* **Fri**: *⚠️ **Last day to submit revisions of Module 1 assignments**.* |
+| *Oct 24*, *Oct 26*, *Oct 28* | Reviewing substantive forms | Composition [workshop](../classes/module2/composition2/) | Conceptual background to participles | **Tue**: *✏️ First reflection exercise.* **Thu**: *📜 [Composition 2](https://hellenike.github.io/textbook/practice/module2/portfolio/composition/) due.* |
 
 ## Module 3: Participles
 
@@ -42,7 +42,7 @@ Deadlines to note:
 | ---: | :--- | :--- | :--- | :--- |
 | *Oct 31*, *Nov 2*, *Nov 4* | [Participles](../classes/module3/participles/): formation | ✏️ [attributive](../classes/module3/attributive/) participles | ✏️ [circumstantial](../classes/module3/circumstantial/) participles |  |
 | *Nov 7*, *Nov 9*, *Nov 11* | The participles of [contract](../classes/module3/contracts/) verbs | The [supplementary](../classes/module3/supplementary/) participle | Reading with participles |  |
-| *Nov 14*, *Nov 16*, *Nov 18* | More | Workshop: unit 3 mastery | Workshkop: unit 3 reading and analysis | **Tue**: *📜 Mastering unit 3 forms due.* **Thu**: *📜 Reading assignment 3 due.* |
+| *Nov 14*, *Nov 16*, *Nov 18* | More practice with participles | Workshop: unit 3 [mastery](https://hellenike.github.io/textbook/practice/module3/portfolio/mastery/) of forms | Workshkop: unit 3 [reading](https://hellenike.github.io/textbook/practice/module3/portfolio/reading/) and analysis | **Tue**: *📜 Mastering [unit 3](https://hellenike.github.io/textbook/practice/module3/portfolio/mastery/) forms due.* **Thu**: *📜 [Reading assignment](https://hellenike.github.io/textbook/practice/module3/portfolio/reading/) 3 due.* |
 | *Nov 21*, *Nov 23*, *Nov 25* | Workshop: unit 3 composition | *Thanksgiving break* | *Thanksgiving break* | **Tue**: *Last class before Thanksgiving break.* **Sun**: *📜 Composition 3 due.* |
 
 ## Subordination

@@ -13,6 +13,7 @@ Welcome to the course web site for Greek 101, section 1!
 
 ## Announcements
 
+- First reflection exercise will be completed in class: no written homework required
 - Portfolio assignments for module 3:
     - [mastery](https://hellenike.github.io/textbook/practice/module3/portfolio/mastery/)
     - [reading](https://hellenike.github.io/textbook/practice/module3/portfolio/reading/): analysis and translation
