@@ -15,14 +15,15 @@ Welcome to the course web site for Greek 101, section 1!
 
 - Portfolio assignments for module 3:
     - [mastery](https://hellenike.github.io/textbook/practice/module3/portfolio/mastery/)
-  
+    - [reading](https://hellenike.github.io/textbook/practice/module3/portfolio/reading/): analysis and translation
 
-## Week at a glance: Nov. 4 - Nov. 11
+
+## Week at a glance: Nov. 14 - Nov. 18
 
 ### MWF classes
 
-We expand our knowledge of participle forms with contract verbs and second aorists, and our understaning of participle usage with the *supplementary participle*.
+Workshop portfolio assignments for Module 3.
 
-### CBL sections
+### CBL
 
-No formal CBL meeting this week: reminder that final draft/dress rehearsal must be completed by Nov. 18
+Complete drafts of project due or dress rehearsals  scheduled by Friday, Nov. 18.
