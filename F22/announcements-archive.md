@@ -3,6 +3,9 @@
 
 
 
+- CBL schedule: 
+    - **no formal CBL meeting** on Nov. 9 - Nov. 10.
+    - **final draft/dress rehearsal** 
 - CBL deadlines: 
     - revised proposal due in class on **Friday, Oct.  28**
     - last date for submission of complete draft or scheduled dress rehearsal of project:  **Nov. 18** (Friday before Thanksgiving)
