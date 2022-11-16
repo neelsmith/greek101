@@ -43,12 +43,12 @@ Deadlines to note:
 | *Oct 31*, *Nov 2*, *Nov 4* | [Participles](../classes/module3/participles/): formation | ✏️ [attributive](../classes/module3/attributive/) participles | ✏️ [circumstantial](../classes/module3/circumstantial/) participles |  |
 | *Nov 7*, *Nov 9*, *Nov 11* | The participles of [contract](../classes/module3/contracts/) verbs | The [supplementary](../classes/module3/supplementary/) participle | Reading with participles |  |
 | *Nov 14*, *Nov 16*, *Nov 18* | More practice with participles | Workshop: unit 3 [mastery](https://hellenike.github.io/textbook/practice/module3/portfolio/mastery/) of forms | Workshkop: unit 3 [reading](https://hellenike.github.io/textbook/practice/module3/portfolio/reading/) and analysis | **Wed**: *First reflection exercise: in class.* **Tue**: *📜 Mastering [unit 3](https://hellenike.github.io/textbook/practice/module3/portfolio/mastery/) forms due.* **Thu**: *📜 [Reading assignment](https://hellenike.github.io/textbook/practice/module3/portfolio/reading/) 3 due.* |
-| *Nov 21*, *Nov 23*, *Nov 25* | Workshop: unit 3 composition | *Thanksgiving break* | *Thanksgiving break* | **Tue**: *Last class before Thanksgiving break.* **Sun**: *📜 Composition 3 due.* |
+| *Nov 21*, *Nov 23*, *Nov 25* | Workshop: unit 3 composition | *Thanksgiving break* | *Thanksgiving break* | **Tue**: *Last class before Thanksgiving break.* |
 
 ## Subordination
 
 | Dates | Monday | Wednesday | Friday | Notes |
 | ---: | :--- | :--- | :--- | :--- |
-| *Nov 28*, *Nov 30*, *Dec 2* | ✏️ the optative mood | ✏️ purpose clauses with past-tense verbs | 🗣️ declamation | **Mon**: *Classes resume.* **Fri**: *⚠️ **Last day to submit revisions of Module 2 assignments**.* |
+| *Nov 28*, *Nov 30*, *Dec 2* | ✏️ the optative mood | ✏️ purpose clauses with past-tense verbs | 🗣️ declamation | **Mon**: *Classes resume.* **Sun**: *📜 Composition 3 due.* **Fri**: *⚠️ **Last day to submit revisions of Module 2 assignments**.* |
 | *Dec 5*, *Dec 7*, *Dec 9* | Review/TBA | Mastering optative forms | Review/TBA | **Fri**: *Last day of classes.* **Sat**: *Study period begins.* **Wed**: *✏️ Second reflection exercise.* |
 | *Dec 12*, *Dec 14*, *Dec 16* | *Study period* | *Exam period* | *Exam period* | **Tue**: *Final examinations begin.* **Mon**: *⚠️ **Last day to submit revisions of Module 3 and 4 assignments**..* |
