@@ -19,6 +19,8 @@ Welcome to the course web site for Greek 101, section 1!
 - Portfolio assignments for module 3:
     - [mastery](https://hellenike.github.io/textbook/practice/module3/portfolio/mastery/)
     - [reading](https://hellenike.github.io/textbook/practice/module3/portfolio/reading/): analysis and translation
+    - [composition](https://hellenike.github.io/textbook/practice/module3/portfolio/composition/)
+
 ## Supplementary glosses and notes for module 3 portfolio assignments!
 
 In addition the glosses with the [module 3 reading assignment](https://hellenike.github.io/textbook/practice/module3/portfolio/reading/), please add the following to your adjectives, noun and verbs to your required vocabulary to learn:
