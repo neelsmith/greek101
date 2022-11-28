@@ -1,4 +1,10 @@
-
+---
+title: "Week at a glance: Nov. 4 - Nov. 11"
+parent: "Review: week at a glance" 
+layout: page
+nav_order: 20
+has_children: true
+---
 
 ## Week at a glance: Nov. 4 - Nov. 11
 
