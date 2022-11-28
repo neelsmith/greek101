@@ -14,38 +14,21 @@ Welcome to the course web site for Greek 101, section 1!
 ## Announcements
 
 
-- **Nov. 18**: unit 3 [vocabulary](./classes/module3/vocabulary/) list added
-- First reflection exercise will be completed in class: no written homework required
-- Portfolio assignments for module 3:
-    - [mastery](https://hellenike.github.io/textbook/practice/module3/portfolio/mastery/)
-    - [reading](https://hellenike.github.io/textbook/practice/module3/portfolio/reading/): analysis and translation
-    - [composition](https://hellenike.github.io/textbook/practice/module3/portfolio/composition/)
-
-
-
-## Supplementary glosses and notes for module 3 portfolio assignments!
-
-In addition to your regular vocabulary list and the glosses with the [module 3 reading assignment](https://hellenike.github.io/textbook/practice/module3/portfolio/reading/), please add the following to your adjectives, noun and verbs to your required vocabulary to learn:
-
-
-In addition, the following adverbs are used:
-
-- ἐγγύς  "near by"
-- μεταξὺ "in between"
-- Οῆθεν, "from the deme (an Athenian political unit) of Oe"
-- ὁμοίως "similarly, in the same way"
-- οὐκέτι "no longer"
-- πολὺ used adverbially, "by far"
+- **Nov. 29**: Oral declamation: assignment details coming on Tuesday!
+- **Dec. 2**: Bring a laptop to class on Friday to practice using the digital Liddell-Scott lexicon
 
 
 
 
-## Week at a glance: Nov. 14 - Nov. 18
+## Week at a glance: Nov. 28 - Dec. 2
 
 ### MWF classes
 
-Workshop portfolio assignments for Module 3.
+We introduce the idea of *subordinate clauses*, a new verbal unit using finite verbs.  We review all forms of verbal unit, and practice reading Greek orally to hear syntactic structures.  On Friday, we will look at some common patterns of word formation.
+
 
 ### CBL
 
-Complete drafts of project due or dress rehearsals  scheduled by Friday, Nov. 18.
+- proposed Greek 101 weekend at WAM: Dec. 3-4; docent's meeting Tuesday, Dec. 6
+- final drafts of other CBL projects due Dec. 12
+

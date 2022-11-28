@@ -3,6 +3,26 @@
 
 
 
+## Supplementary glosses and notes for module 3 portfolio assignments!
+
+In addition to your regular vocabulary list and the glosses with the [module 3 reading assignment](https://hellenike.github.io/textbook/practice/module3/portfolio/reading/), please add the following to your adjectives, noun and verbs to your required vocabulary to learn:
+
+
+In addition, the following adverbs are used:
+
+- ἐγγύς  "near by"
+- μεταξὺ "in between"
+- Οῆθεν, "from the deme (an Athenian political unit) of Oe"
+- ὁμοίως "similarly, in the same way"
+- οὐκέτι "no longer"
+- πολὺ used adverbially, "by far"
+
+- **Nov. 18**: unit 3 [vocabulary](./classes/module3/vocabulary/) list added
+- First reflection exercise will be completed in class: no written homework required
+- Portfolio assignments for module 3:
+    - [mastery](https://hellenike.github.io/textbook/practice/module3/portfolio/mastery/)
+    - [reading](https://hellenike.github.io/textbook/practice/module3/portfolio/reading/): analysis and translation
+    - [composition](https://hellenike.github.io/textbook/practice/module3/portfolio/composition/)
 - CBL schedule: 
     - **no formal CBL meeting** on Nov. 9 - Nov. 10.
     - **final draft/dress rehearsal** 
