@@ -50,5 +50,5 @@ Deadlines to note:
 | Dates | Monday | Wednesday | Friday | Notes |
 | ---: | :--- | :--- | :--- | :--- |
 | *Nov 28*, *Nov 30*, *Dec 2* | Subordination with the indicative | Recognizing verbal units (oral practice) | Word formation and vocabulary (how to use a lexicon) | **Mon**: *Classes resume.* **Sun**: *📜 Composition 3 due.* **Fri**: *⚠️ **Last day to submit revisions of Module 2 assignments**.* |
-| *Dec 5*, *Dec 7*, *Dec 9* | Review of forms | Sight reading | Preparing for Greek 102 | **Fri**: *Last day of classes.* **Sat**: *Study period begins.* **Wed**: *✏️ Second reflection exercise.* |
+| *Dec 5*, *Dec 7*, *Dec 9* | Mental health day: no class | Declamations in class | Preparing for Greek 102 | **Fri**: *Last day of classes.* **Sat**: *Study period begins.* **Wed**: *✏️ Second reflection exercise.* |
 | *Dec 12*, *Dec 14*, *Dec 16* | *Study period* | *Exam period* | *Exam period* | **Tue**: *Final examinations begin.* **Mon**: *⚠️ **Last day to submit revisions of Module 3 and 4 assignments**..* |
