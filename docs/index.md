@@ -13,14 +13,14 @@ Welcome to the course web site for Greek 101, section 1!
 
 ## Announcements
 
-
+- **Dec. 2**: Bring a laptop to class on Friday to practice using the digital Liddell-Scott lexicon
 - **Dec. 7**: Oral declamations in class on the following schedule: 
     - 9:00 Louie
     - 9:10 Aidan
     - 9:20 McKenna
     - 9:30 Christopher
     - 9:40 Mairead
-- **Dec. 2**: Bring a laptop to class on Friday to practice using the digital Liddell-Scott lexicon
+
 
 
 
