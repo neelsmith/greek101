@@ -13,6 +13,7 @@ Welcome to the course web site for Greek 101, section 1!
 
 ## Announcements
 
+- Revisions for F22: please plan to revise *portfolio assignments*.  Brief oral review of homeworks for full credit in individual appointments on Thursday, *Dec 8*.
 - **Dec. 2**: Bring a laptop to class on Friday to practice using the digital Liddell-Scott lexicon
 - **Dec. 7**: Oral declamations in class on the following schedule: 
     - 9:00 Louie
