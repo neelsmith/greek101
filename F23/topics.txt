@@ -4,7 +4,7 @@
 
 *no classes*
 [Introduction to course](../classes/module1/intro/)
-✏️ [Accent](../classes/module1/accent/)#
+✏️ [Accent](../classes/module1/accent/)
 
 
 ✏️ The [aorist indicative](../classes/module1/aorist/)
