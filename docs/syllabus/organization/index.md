@@ -28,8 +28,6 @@ The textbook also has an accompanying youtube channel and playlist at [https://w
 
 ## Technologies and mechanics of submitting assignments
 
+All course material will be available on the course web site at [https://neelsmith.github.io/greek101/](https://neelsmith.github.io/greek101/). 
 
-
-All course material will be available on the course web site at [https://neelsmith.github.io/greek101/](https://neelsmith.github.io/greek101/).  You can use Canvas to submit written assignments, and to review your progress in completing graded assignments.
-
-Written assignments should be written clearly and legibly in dark pencil on paper.  You can submit the assignments directly to Canvas if you have the Canvas Student app on a cell phone. If you do not have access to the Canvas Student app on a phone, please get in touch with me, and we can make arrangements for submitting your homework on paper.  If you have technical problems submitting an assignment, please get in touch with Educational Technology Services and ask for help.
+Written assignments should be written clearly and legibly in dark pencil on paper.  

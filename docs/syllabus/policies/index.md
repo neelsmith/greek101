@@ -18,14 +18,6 @@ If at some point in the semester you are unable to complete the required prepara
 
 If you are experiencing symptoms of a communicable disease, please let me know and do *not* come to class.  If you are are unable to attend class for whatever reason, for a shorter or longer period of time, please get in touch with me so we can work out a plan to get you caught up.
 
-## Masking and testing
-
-It is impossible to foresee how the ongoing global pandemic will develop this semester, and we continue to teach and learn in ways we did not anticipate. We will monitor the spread of the virus and re-evaluate our masking practices periodically throughout the semester.
-
-Because even a "mild" case can have serious consequences for at-risk populations,  as the semester begins, medical-grade or better masks are required in class and in drop-in hours until further notice. 
-
-Masking is equally uncomfortable for us all, but feeling unsafe creates a poor learning environment so please do your part. Please continue to proactively monitor, test, and isolate at the onset of COVID-19 symptoms and close contact with any individuals with known infections. We will continue to closely monitor viral surges and current College recommendations in regards to COVID-19 and any other infectious diseases (e.g., monkeypox) that might emerge as we move through the semester.
-
 
 
 ## Diversity and Inclusivity

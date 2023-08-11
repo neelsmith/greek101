@@ -12,7 +12,7 @@ Community-based learning (CBL) is an essential part of our course.  We are privi
 
 Your CBL work will include a weekly CBL section meeting on campus, and a small-group project that will include work in the community.
 
-In the fall semester of 2022, our community partner will be the Worcester Art Museum.
+In the fall semester of 2023, our community partners will be the Worcester Art Museum and the Worcester Public Schools.
 
 
 

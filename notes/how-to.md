@@ -5,3 +5,12 @@ First, `cp offline/_config.yml docs`, then `cd docs;bundle exec jekyll serve`. (
 
 
 # Building course schedule page
+
+In Julia, activate `Project.toml` in the repository root. If you haven't previously added `CourseCalendar`, do that from its gh repo URL. Then just `julia compilecal.jl`.
+
+
+## Generating a PDF syllabus
+
+`sh pdfsyllabus.sh`
+
+The output will be `printable/syllabus.pdf`

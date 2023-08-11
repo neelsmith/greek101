@@ -1,5 +1,5 @@
 ---
-title: "Greek 101, section 1, fall '22: Syllabus"
+title: "Greek 101, section 1, fall '23: Syllabus"
 documentclass: "article"
 ---
 
@@ -12,13 +12,11 @@ documentclass: "article"
 
 **Instructor**: Neel Smith.  **Email**: at `holycross.edu`, user name `nsmith`
 
-**Regular class meeting times**:  MWF 9:00-9:50, Stein 304.  CBL sections: Wednesday  6:00-6:50 pm, Thursday 8:00-8:50 am, in Fenwick 420.
+**Regular class meeting times**:  MWF 9:00-9:50, room TBA.  CBL sections: TBA.
 
-**Scheduled drop-in hours**:  Tuesday 10:00-11:30, Wednesday 12:00-1:30,Friday, 12:30-2:00, in Fenwick 415, or anytime by appointment.
+**Scheduled drop-in hours**:  TBA.
 
 **Manuscripts, Inscriptions and Documents Club**:  Friday, 2:00 pm - ?, fourth floor of Fenwick Hall.
-
-Please wear masks in class meetings and in my office.
 
 
 
@@ -43,7 +41,7 @@ Community-based learning (CBL) is an essential part of our course.  We are privi
 
 Your CBL work will include a weekly CBL section meeting on campus, and a small-group project that will include work in the community.
 
-In the fall semester of 2022, our community partner will be the Worcester Art Museum.
+In the fall semester of 2023, our community partners will be the Worcester Art Museum and the Worcester Public Schools.
 
 
 
@@ -64,9 +62,9 @@ The textbook also has an accompanying youtube channel and playlist at [https://w
 
 ## Technologies and mechanics of submitting assignments
 
-All course material will be available on the course web site at [https://neelsmith.github.io/greek101/](https://neelsmith.github.io/greek101/).  You can use Canvas to submit written assignments, and to review your progress in completing graded assignments.
+All course material will be available on the course web site at [https://neelsmith.github.io/greek101/](https://neelsmith.github.io/greek101/).
 
-Written assignments should be written clearly and legibly in dark pencil on paper.  You can submit the assignments directly to Canvas if you have the Canvas Student app on a cell phone. If you do not have access to the Canvas Student app on a phone, please get in touch with me, and we can make arrangements for submitting your homework on paper.  If you have technical problems submitting an assignment, please get in touch with Educational Technology Services and ask for help.
+Written assignments should be written clearly and legibly in dark pencil on paper.
 
 
 
@@ -140,7 +138,7 @@ The total points you can earn in this category is 16.
 
 Your course grade will be recorded from this table.  In the row for each grade, the numbers in each column represent the minimum number of points required in that category.
 
-| Course grade | Portfolio (out of 20) | Class preparation (out of 40) | CBL participation  (out of 16) |
+| Course grade | Portfolio (out of 20) | Class preparation (out of 40) | CBL  (out of 16) |
 | --- | --- | --- | --- |
 | A | 20 | 38 |   15 |
 | A- | 20 | 36 |   15 |
@@ -164,14 +162,6 @@ Active participation in class is one of the most effective ways to learn ancient
 If at some point in the semester you are unable to complete the required preparation for a single class, please come anyway: staying away only compounds the difficulty of catching up.  If you let me know that you're not prepared, I will not call on you in class.
 
 If you are experiencing symptoms of a communicable disease, please let me know and do *not* come to class.  If you are are unable to attend class for whatever reason, for a shorter or longer period of time, please get in touch with me so we can work out a plan to get you caught up.
-
-## Masking and testing
-
-It is impossible to foresee how the ongoing global pandemic will develop this semester, and we continue to teach and learn in ways we did not anticipate. We will monitor the spread of the virus and re-evaluate our masking practices periodically throughout the semester.
-
-Because even a "mild" case can have serious consequences for at-risk populations,  as the semester begins, medical-grade or better masks are required in class and in drop-in hours until further notice.
-
-Masking is equally uncomfortable for us all, but feeling unsafe creates a poor learning environment so please do your part. Please continue to proactively monitor, test, and isolate at the onset of COVID-19 symptoms and close contact with any individuals with known infections. We will continue to closely monitor viral surges and current College recommendations in regards to COVID-19 and any other infectious diseases (e.g., monkeypox) that might emerge as we move through the semester.
 
 ## Diversity and Inclusivity
 

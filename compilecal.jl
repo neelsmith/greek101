@@ -3,8 +3,8 @@ Pkg.activate(".")
 Pkg.instantiate()
 using CourseCalendar
 
-calfile = joinpath(pwd(), "F22", "calendar1.toml")
-topics = joinpath(pwd(), "F22", "topics1.txt")
+calfile = joinpath(pwd(), "F23", "calendar.toml")
+topics = joinpath(pwd(), "F23", "topics.txt")
 sched = courseSchedule(calfile, topics)
 
 md = mdcalendar(sched)
