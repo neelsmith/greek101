@@ -19,3 +19,8 @@ Greek 101 has two components: our regular MWF class (meeting at 9:00 in Beaven 1
 Our MWF meetings begin on Wednesday, Aug. 30; CBL lab meetings begin the following week (week of Sept. 4-9).
 
 Before coming to the first class on Wednesday, you should learn the Greek alphabet.  Please see [this class assignment](./classes/module1/intro/).
+
+
+> ## ⚠️ Please note
+>
+> ***Masks will be required for our first class meeting.***
