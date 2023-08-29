@@ -1,5 +1,6 @@
 Manifest.toml
 docs/Gemfile
+docs/schedule/
 *.lock
 _site
 docs/.jekyll-cache/
@@ -7,3 +8,5 @@ docs/.jekyll-cache/
 scratch/
 F22/class-slides/*.html
 F22/checkins/*pdf
+F23/class-slides/*.html
+F23/checkins/*pdf
