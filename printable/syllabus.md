@@ -8,13 +8,15 @@ documentclass: "article"
 
 
 
+Course web site: `https://neelsmith.github.io/greek101/`
+
 # Contact information
 
 **Instructor**: Neel Smith.  **Email**: at `holycross.edu`, user name `nsmith`
 
-**Regular class meeting times**:  MWF 9:00-9:50, room TBA.  CBL sections: TBA.
+**Regular class meeting times**:  MWF 9:00-9:50, Beaven 113.  CBL sections: Monday 6:00 pm, Tuesday 8:00 am.
 
-**Scheduled drop-in hours**:  TBA.
+**Scheduled drop-in hours**:  Tues. 11:00-12:00;  Wed. 1:00-2:30; Thurs. 1:00-2:00.
 
 **Manuscripts, Inscriptions and Documents Club**:  Friday, 2:00 pm - ?, fourth floor of Fenwick Hall.
 
@@ -157,11 +159,17 @@ Your course grade will be recorded from this table.  In the row for each grade, 
 
 ## Class attendance
 
-Active participation in class is one of the most effective ways to learn ancient Greek.  My expectations for your class attendance follow the college policies posted at [https://catalog.holycross.edu/requirements-policies/academic-policies/#coursepoliciestext](https://catalog.holycross.edu/requirements-policies/academic-policies/#coursepoliciestext).
+Work in class is an essential component of the course, and regular attendance is required.  (See the course grading rubric in this syllabus for how class attendance contributes to your final course grade.) Excused absences do *not* count against your course grade. If you know of scheduled conflicts with class meeting times, please speak with Prof. Smith as soon as possible to make arrangements ahead of time for how best to make up work for an excused absence.
 
-If at some point in the semester you are unable to complete the required preparation for a single class, please come anyway: staying away only compounds the difficulty of catching up.  If you let me know that you're not prepared, I will not call on you in class.
+If you are sick or have symptoms of a possible communicable disease such as COVID, on the other, please do *not* come to class. You should get in touch with Prof. Smith by email as soon as possible to make arrangements for following up on an unplanned excused absence.
 
-If you are experiencing symptoms of a communicable disease, please let me know and do *not* come to class.  If you are are unable to attend class for whatever reason, for a shorter or longer period of time, please get in touch with me so we can work out a plan to get you caught up.
+## Masking and testing
+
+In August, 2023, COVID infections are again on the rise. It is impossible to foresee how the spread of infections  will develop this semester, and we continue to teach and learn in ways we did not anticipate. We will monitor the spread of the virus and re-evaluate our masking practices periodically throughout the semester.
+
+Because even a "mild" case can have serious consequences for at-risk populations, as the semester begins, medical-grade or better masks are required in class and in drop-in hours until further notice.
+
+Masking is equally uncomfortable for us all, but feeling unsafe creates a poor learning environment so please do your part. Please continue to proactively monitor, test, and isolate at the onset of COVID-19 symptoms and close contact with any individuals with known infections. We will continue to closely monitor viral surges and current College recommendations in regards to COVID-19 and any other infectious diseases that might emerge as we move through the semester.
 
 ## Diversity and Inclusivity
 
@@ -185,6 +193,4 @@ You should be familiar with the College’s policy on Academic Integrity posted 
 
 # Peer tutoring
 
-The Department of Classics and the Classics Department Inclusion Committee offer a peer-based tutoring program for Greek 101 students. The tutors have received training through Academic Services and Learning Resources, and can discuss course with ou, help you understand how to solve problems, and suggest independent learning strategies.
-
-Tutoring workshops run as an appointment-based service of 40-minute sessions, at time arranged between you and the Peer Tutor. To set up an appointment with one of the tutors, please contact your professor.
+The Department of Classics offers a peer-based tutoring service for intermediate Greek that includes review and practice sessions on topics we are currently covering.  As sessions are scheduled throughout the semester, details of dates, times and topics will be posted on the course web site.

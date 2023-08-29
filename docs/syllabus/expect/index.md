@@ -24,13 +24,8 @@ These practices will help you absorb material most effectively:
 - When you are studying, focus only on Greek. Turn off your cell phone and any other electronic communications. Turn off any music: you should see, hear and speak only Greek.
 
 
-
 ## Work log
 
-To help you gauge how effectively you are managing your work, I will ask you to keep a log of your work on Greek. You should note what days you worked on Greek and for how long.  You may also wish to note what kind of work you did: written homework, vocabulary review, or draft of a portfolio assignment, for example.
+To help you gauge how effectively you are managing your work, consider keeping a log tracking your work on Greek. You should note what days you worked on Greek and for how long.  You may also wish to note what kind of work you did: written homework, vocabulary review, or draft of a portfolio assignment, for example.
 
-Your work logs will not be graded, but I will periodically ask you to summarize the number of days and hours per week you have worked on Greek, for anonymous submission. This will help me evaluate how to balance assignments as we progress through the year.
-
-
-
-
+If you periodically summarize the number of days and hours per week you have worked on Greek, it could help you understand where you are progressing.  If you would like to share that information with me, it would also be helpful to me in trying to balance and pace of our assignments.
