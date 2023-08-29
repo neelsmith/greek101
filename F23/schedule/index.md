@@ -21,7 +21,7 @@ Deadlines to note:
 
 | Dates | Monday | Wednesday | Friday | Notes |
 | ---: | :--- | :--- | :--- | :--- |
-| *Aug 28*, *Aug 30*, *Sep 1* | *no classes* | [Introduction to course](../classes/module1/intro/) | ✏️ [Accent](../classes/module1/accent/) | **Mon**: *Advising: no classes.* **Fri**. ** |
+| *Aug 28*, *Aug 30*, *Sep 1* | *no classes* | [Introduction to course](../classes/module1/intro/) | ✏️ [Accent](../classes/module1/accent/) | **Mon**: *Advising: no classes.* |
 | *Sep 4*, *Sep 6*, *Sep 8* | ✏️ The [aorist indicative](../classes/module1/aorist/) | 🗣️ Mastering [verb forms](../classes/module1/aorist-review/): active, middle and passive voices of the aorist | ✏️ The [imperfect indicative](../classes/module1/imperfect/) |  |
 | *Sep 11*, *Sep 13*, *Sep 15* | ✏️ [Contract verbs](../classes/module1/contracts/) | ✏️ The [second aorist](../classes/module1/aorist2/) | Review of verb forms |  |
 | *Sep 18*, *Sep 20*, *Sep 22* | [Workshop](../classes/module1/reading1/): reading assignment 1 | Subjects, verbs, objects: [word order](../classes/module1/wordorder/) and translation | [Workshop](../classes/module1/composition1/): composition 1 |  |

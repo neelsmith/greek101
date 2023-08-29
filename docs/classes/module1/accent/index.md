@@ -7,10 +7,6 @@ nav_order: 2
 ---
 
 
-https://hellenike.github.io/textbook/preliminaries/accent/
-
-
-
 
 # Accent
 
@@ -26,10 +22,3 @@ Follow the instructions in [this on-line assignment to practice accent](https://
 
 - write out the answers to questions 1-4 as complete sentences
 - follow the instructions for question 5 (including copying out each of the listed words).
-
-
-When you have completed the written assignment, use the Canvas Student app to scan and submit your work.
-
-Due: 5:00 pm the day before class.
-
-
