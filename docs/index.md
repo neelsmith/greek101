@@ -8,7 +8,13 @@ nav_order: 0
 
 # Greek 101-01, F'23: home page
 
-Welcome to the course web site for Greek 101, section 1! 
+
+
+## Announcements and reminders
+
+- CBL sections begin Sept. 4!
+- Updated textbook for F23 now available. (Use links at the top of all pages on this site to read on the web or to download a complete PDF.)
+
 
 
 
