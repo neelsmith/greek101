@@ -29,3 +29,22 @@ Welcome to the course web site for Greek 101, section 1!
 No CBL meetings this week.
 
 
+
+## Week at a glance: Sept. 4 - 8
+
+### Overview
+
+- We learn two ways to talk about events in the past: the *aorist* and the *imperfect* tenses.
+
+
+### MWF classes
+
+- [Monday](http://localhost:4030/classes/module1/aorist/): the aorist tense
+- Wednesday
+- Friday
+
+
+
+### CBL
+
+- Initial CBL meetings: meet your TA, orientation to CBL work
