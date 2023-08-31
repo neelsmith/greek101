@@ -21,7 +21,7 @@ Welcome to the course web site for Greek 101, section 1!
 ### MWF classes
 
 - Wednesday: the [alphabet](./classes/module1/intro/)
-- Friday: [accent](./classes/module1/accent/). Written assignment should be completed before coming to class. Please write legible in dark pencil, and *skip lines* between answers.
+- Friday: [accent](./classes/module1/accent/). Written assignment should be completed before coming to class. Please write legibly in dark pencil, and *skip lines* between answers.
 
 
 ### CBL
