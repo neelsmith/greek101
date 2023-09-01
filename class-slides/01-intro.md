@@ -60,7 +60,6 @@ Note tips for how to succeed
     - **[home page](https://neelsmith.github.io/latin101/)** has announcements and week at a glance
     - **schedule** has links to daily assignments
     - **search box** (top of every page)  also useful!
-- Canvas for submission and grades
 
 
 
@@ -69,9 +68,9 @@ Note tips for how to succeed
 # CBL
 
 
-- collaboration with WAM
+- collaboration with WAM and Worcester Public Schools
 - weekly meeting with TA
-- projects in WAM after fall break
+
 
 ---
 
@@ -91,7 +90,7 @@ Note tips for how to succeed
 
 > ?? Let’s live or s/he passes away from America for the detriment of a free man??
 
-([Spencer Alexander McDaniel](https://talesoftimesforgotten.com/2020/05/16/sean-hannity-does-not-know-latin/), Junior Classical Studies/History major at Indiana University, Bloomington)
+([Spencer Alexander McDaniel](https://talesoftimesforgotten.com/2020/05/16/sean-hannity-does-not-know-latin/), Junior Classical Studies/History major at Indiana University, Bloomington, 2020 blog post)
 
 ![bg left width: 100%](imgs/hannity-v1.png)
 
