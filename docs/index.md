@@ -45,7 +45,7 @@ No CBL meetings this week.
 
 ### MWF classes
 
-- [Monday](http://localhost:4030/classes/module1/aorist/): the aorist tense
+- [Monday](./classes/module1/aorist/): the aorist tense
 - Wednesday
 - Friday
 
