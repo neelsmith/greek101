@@ -12,6 +12,7 @@ nav_order: 0
 
 ## Announcements and reminders
 
+- Vocabulary list we'll cover in module 1 is [online here](https://hellenike.github.io/textbook/review/module1-review/vocabulary/): you'll need it for Monday's homework!  (This will be easier when our printed textbooks arrive!)
 - CBL sections begin Sept. 4! TAs will set up groups for each section in GroupMe.
 - New [resources and tips](./resources/) pages adds links to off-site resources.  As the semester progresses, we'll add review material and other material to help you review.
 - Updated textbook for F23 now available. (Use links at the top of all pages on this site to read on the web or to download a complete PDF.)
