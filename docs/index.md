@@ -13,6 +13,7 @@ nav_order: 0
 ## Announcements and reminders
 
 - CBL sections begin Sept. 4! TAs will set up groups for each section in GroupMe.
+- New [resources and tips](./resources/) pages adds links to off-site resources.  As the semester progresses, we'll add review material and other material to help you review.
 - Updated textbook for F23 now available. (Use links at the top of all pages on this site to read on the web or to download a complete PDF.)
 
 
