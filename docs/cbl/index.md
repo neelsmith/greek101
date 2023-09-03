@@ -9,6 +9,12 @@ has_children: true
 
 We're currenty working with our community partners to establish final dates for our fall 2023 CBL work.  More details will be posted here as they become available.
 
+## TAs
+
+- Monday section: Adele Feldberg, Meagan Warren
+- Tuesday section: Isabel Sullivan
+
+
 ## Preliminary outline
 
 Fall semester (Greek 101):

@@ -12,7 +12,7 @@ nav_order: 0
 
 ## Announcements and reminders
 
-- CBL sections begin Sept. 4!
+- CBL sections begin Sept. 4! TAs will set up groups for each section in GroupMe.
 - Updated textbook for F23 now available. (Use links at the top of all pages on this site to read on the web or to download a complete PDF.)
 
 
