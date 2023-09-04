@@ -12,15 +12,19 @@ nav_order: 0
 
 ## Announcements and reminders
 
+
+
 - Please include *questions* as part of your written homework: this will help make your corrected homeworks a useful reference you can study from. (Answers alone won't do that very well.)
-- Deadline for revising HW 1: Friday Sept. 8.  Additional dropin hours (in addition to regular hours): Wed. 12-1, Thurs. 11-1, Fri 2:30-3:30.
+- Deadline for revising written homework 1, accent: Friday Sept. 8.  Additional dropin hours (in addition to regular hours): Wed. 12-1, Thurs. 11-1, Fri 2:30-3:30.
 - Vocabulary list we'll cover in module 1 is [online here](https://hellenike.github.io/textbook/review/module1-review/vocabulary/): you'll need it for Monday's homework!  (This will be easier when our printed textbooks arrive!)
 - CBL sections begin Sept. 4! TAs will set up groups for each section in GroupMe.
 - New [resources and tips](./resources/) pages adds links to off-site resources.  As the semester progresses, we'll add review material and other material to help you review.
 - Updated textbook for F23 now available. (Use links at the top of all pages on this site to read on the web or to download a complete PDF.)
 
 
+## Module 1: the Greek verb
 
+We will devote much of September to an introduction to the Greek verbal system, culminating in portfolio assignments on translation and composition the week of Sept. 18-22.
 
 ## Week at a glance: Aug. 30 - Sept. 1
 
@@ -50,8 +54,8 @@ No CBL meetings this week.
 ### MWF classes
 
 - [Monday](./classes/module1/aorist/): the aorist tense
-- Wednesday
-- Friday
+- [Wednesday](./classes/module1/aorist-review/).  Complete [this Google form](https://forms.gle/jE8tmgb8vpU54nbZ6).
+- [Friday](./classes/module1/imperfect/): the imperfect tense
 
 
 

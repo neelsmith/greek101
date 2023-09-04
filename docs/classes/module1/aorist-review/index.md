@@ -8,6 +8,13 @@ nav_order: 5
 
 ## Review of aorist indicative 
 
+## Assignment
+
+Please complete [this Google form](https://forms.gle/jE8tmgb8vpU54nbZ6).
+
+
+## Class preparation
+
 Review section 4.7 of your textbook, "The aorist indicative."  Review any comments on your previous homework submission.
 
 In class, we will practice recognizing and creating finite verb forms in all three voices of the aorist.  Bring any questions you might have about verbs or this verb tense to class.
