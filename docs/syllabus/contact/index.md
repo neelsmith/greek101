@@ -6,6 +6,10 @@ nav_order: 1
 ---
 
 
+*Corrected syllabus for F23: Sept. 1, 2023*
+
+
+
 Course web site: `https://neelsmith.github.io/greek101/`
 
 # Contact information
