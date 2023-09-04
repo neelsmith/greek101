@@ -8,6 +8,8 @@ documentclass: "article"
 
 
 
+*Corrected syllabus for F23: Sept. 1, 2023*
+
 Course web site: `https://neelsmith.github.io/greek101/`
 
 # Contact information
@@ -52,9 +54,9 @@ In the fall semester of 2023, our community partners will be the Worcester Art M
 
 ## Textbook
 
-The fall semester course is organized in four modules centered on four major ideas about the ancient Greek language. On our course website, each module identifies concrete objectives that will help you achieve the broader course goals summarized above.
+The fall semester course is organized in three modules centered on three major ideas about the ancient Greek language. On our course website, each module identifies concrete objectives that will help you achieve the broader course goals summarized above.
 
-The four modules correspond closely to modules 1-4 in the textbook we will be using, which you can purchase directly from the Classics Department office. The text will be available this fall in two installments:  packet 1 will be available the first week of classes; packet 2 will be available after fall break.  In addition, you can always find a current on-line version at [https://hellenike.github.io/textbook/](https://hellenike.github.io/textbook/), and can always download a current PDF of the textbook from [https://github.com/hellenike/textbook/raw/main/pdf/hellenike.pdf](https://github.com/hellenike/textbook/raw/main/pdf/hellenike.pdf).
+The three modules correspond closely to modules 1-3 in the textbook we will be using.  You will be given a printed copy of the textbook in class. In addition, you can always find a current on-line version at [https://hellenike.github.io/textbook/](https://hellenike.github.io/textbook/), and can always download a PDF of the current textbook from [https://github.com/hellenike/textbook/raw/main/pdf/hellenike.pdf](https://github.com/hellenike/textbook/raw/main/pdf/hellenike.pdf).
 
 After introducing features of the ancient Greek language, each module of the textbook includes reading that connects the topics you are studying to contemporary experience, and concludes with a reading selection from an authentic ancient text.  This year, our reading selections will be drawn from a defense speech composed by the orator Lysias in a murder trial.
 
@@ -101,11 +103,29 @@ If you periodically summarize the number of days and hours per week you have wor
 
 You determine your own course grade by satisfactorily completing a number of assignments in three categories:
 
- 1. written and oral assignments for class preparation
- 2. longer portfolio assignments
- 3. work in CBL lab
+ 1. class attendance
+ 2. written and oral assignments for class preparation
+ 3. longer portfolio assignments
+ 4. work in CBL lab
 
 All assignments will be graded satisfactory/unsatisfactory according to an explicit specification of requirements: if you complete all requirements, the assignment is satisfactory.
+
+## Attendance
+
+Being prepared and attending class is an essential part of the learning proces.
+
+We have 39 scheduled class meetings. This table summarizes the scale of attendance points:
+
+| Class meetings attended | Points earned |
+| --- | --- |
+| 37+ |  6 |
+|  36  | 5 |
+|34 | 4 |
+|32 | 3 |
+|30 | 2 |
+|< 22 | 0 |
+
+The total points you can earn in this category is 6.
 
 ## Class preparation
 
@@ -140,17 +160,17 @@ The total points you can earn in this category is 16.
 
 Your course grade will be recorded from this table.  In the row for each grade, the numbers in each column represent the minimum number of points required in that category.
 
-| Course grade | Portfolio (out of 20) | Class preparation (out of 40) | CBL  (out of 16) |
-| --- | --- | --- | --- |
-| A | 20 | 38 |   15 |
-| A- | 20 | 36 |   15 |
-| B+ | 18 | 36 |   14 |
-| B | 17 | 35 |  13 |
-| B- | 16 | 34 |   13 |
-| C+ | 15 | 34 |   12 |
-| C | 14 | 33 |   11 |
-| C- | 13 | 32 |   10 |
-| D | 12 | 31 |   8 |
+| Course grade | Portfolio (out of 20) | Class preparation (out of 40) | CBL  (out of 16) | Attendance (out of 6) |
+| --- | --- | --- | --- | --- |
+| A | 20 | 38 |   15 | 6 |
+| A- | 20 | 36 |   15 | 6 |
+| B+ | 18 | 36 |   14 | 5 |
+| B | 17 | 35 |  13 | 5 |
+| B- | 16 | 34 |   13 | 4 |
+| C+ | 15 | 34 |   12 | 4 |
+| C | 14 | 33 |   11 | 4 |
+| C- | 13 | 32 |   10 | 3 |
+| D | 12 | 31 |   8 | 2 |
 
 
 
