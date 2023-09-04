@@ -10,13 +10,30 @@ nav_order: 7
 
 You determine your own course grade by satisfactorily completing a number of assignments in three categories:
 
+
+1. class attendance
 1. written and oral assignments for class preparation 
 1. longer portfolio assignments 
 1. work in CBL lab
 
 All assignments will be graded satisfactory/unsatisfactory according to an explicit specification of requirements: if you complete all requirements, the assignment is satisfactory.
 
+## Attendance 
 
+Being prepared and attending class is an essential part of the learning proces.
+
+ We have 39 scheduled class meetings. This table summarizes the scale of attendance points:
+
+| Class meetings attended | Points earned |
+| --- | --- |
+| 37+ |  6 |
+|  36  | 5 |
+|34 | 4 |
+|32 | 3 |
+|30 | 2 |
+|< 22 | 0 |
+
+The total points you can earn in this category is 6.
 
 
 ##  Class preparation
@@ -39,6 +56,8 @@ As with class preparation assignments, each portfolio assignment earns one point
 The total points you can earn in this category is 20.
 
 
+
+
 ## CBL lab
 
 Throughout the year, you will participate in a weekly CBL lab led by an alumna or alumnus of last year's Greek 101/102 course.
@@ -55,15 +74,15 @@ The total points you can earn in this category is 16.
 
 Your course grade will be recorded from this table.  In the row for each grade, the numbers in each column represent the minimum number of points required in that category.
 
-| Course grade | Portfolio (out of 20) | Class preparation (out of 40) | CBL  (out of 16) |
-| --- | --- | --- | --- |
-| A | 20 | 38 |   15 | 
-| A- | 20 | 36 |   15 | 
-| B+ | 18 | 36 |   14 | 
-| B | 17 | 35 |  13 | 
-| B- | 16 | 34 |   13 | 
-| C+ | 15 | 34 |   12 | 
-| C | 14 | 33 |   11 | 
-| C- | 13 | 32 |   10 | 
-| D | 12 | 31 |   8 | 
+| Course grade | Portfolio (out of 20) | Class preparation (out of 40) | CBL  (out of 16) | Attendance (out of 6) |
+| --- | --- | --- | --- | --- |
+| A | 20 | 38 |   15 | 6 |
+| A- | 20 | 36 |   15 | 6 |
+| B+ | 18 | 36 |   14 | 5 | 
+| B | 17 | 35 |  13 | 5 |
+| B- | 16 | 34 |   13 | 4 |
+| C+ | 15 | 34 |   12 | 4 |
+| C | 14 | 33 |   11 | 4 |
+| C- | 13 | 32 |   10 | 3 | 
+| D | 12 | 31 |   8 | 2 |
 
