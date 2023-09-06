@@ -28,7 +28,7 @@ We will devote much of September to an introduction to the Greek verbal system, 
 
 ### Overview
 
-- Preliminaries to the Greek langauge: introduction to the alphabet and accent system
+- Preliminaries to the Greek language: introduction to the alphabet and accent system
 
 ### MWF classes
 
