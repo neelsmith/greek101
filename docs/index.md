@@ -12,14 +12,12 @@ nav_order: 0
 
 ## Announcements and reminders
 
-
-
-- Please include *questions* as part of your written homework: this will help make your corrected homeworks a useful reference you can study from. (Answers alone won't do that very well.)
+- Homework for **Monday, Sept. 11** will include reading all of Lysias 1 in two different translations (both available [here](https://hellenike.github.io/textbook/reference/)).  Feel free to get a head start!
+- **Sept. 6**: you should have received an email scheduling your CBL visit to the WAM next week. Please **complete the CBL registration form as soon as possible**.
 - Deadline for revising written homework 1, accent: **Friday Sept. 8**.  Additional drop-in hours this week (in addition to regular drop-in hours): Wed. 12-1, Thurs. 11-1, Fri 2:30-3:30.
 - Vocabulary list we'll cover in module 1 is [online here](https://hellenike.github.io/textbook/review/module1-review/vocabulary/): you'll need it for Monday's homework!  (This will be easier when our printed textbooks arrive.)
-- CBL sections begin **Sept. 4** and **Sept. 5**. TAs will set up groups for each section in GroupMe.
-- New [resources and tips](./resources/) pages adds links to off-site resources.  As the semester progresses, we'll add review material and other material to help you review.
-- Updated textbook for F23 now available. (Use links at the top of all pages on this site to read on the web or to download a complete PDF. Hard copy will be distributed in class *gratis*, courtesy of the Classics Department.)
+
+
 
 
 ## Module 1: the Greek verb
@@ -56,7 +54,6 @@ No CBL meetings this week.
 - [Monday](./classes/module1/aorist/): the aorist tense
 - [Wednesday](./classes/module1/aorist-review/).  Complete [this Google form](https://forms.gle/jE8tmgb8vpU54nbZ6).
 - [Friday](./classes/module1/imperfect/): the imperfect tense
-
 
 
 ### CBL
