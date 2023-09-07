@@ -9,11 +9,14 @@ nav_order: 0
 # Greek 101-01, F'23: home page
 
 
-
 ## Announcements and reminders
 
+
+- **Deadlines for revising written homework**:
+    - homework 1, accent: **Friday Sept. 8**.  
+    - homework 2, the aorist: **Friday Sept. 15**.
 - Homework for **Monday, Sept. 11** will include reading all of Lysias 1 in two different translations (both available [here](https://hellenike.github.io/textbook/reference/)).  Feel free to get a head start!
-- Deadline for revising written homework 1, accent: **Friday Sept. 8**.  Additional drop-in hours this week (in addition to regular drop-in hours): Wed. 12-1, Thurs. 11-1, Fri 2:30-3:30.
+- Additional drop-in hours this week (in addition to regular drop-in hours): Fri 2:30-3:30.
 - Vocabulary list we'll cover in module 1 is [online here](https://hellenike.github.io/textbook/review/module1-review/vocabulary/): you'll need it for Monday's homework!  (This will be easier when our printed textbooks arrive.)
 
 
