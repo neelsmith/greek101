@@ -1,0 +1,27 @@
+---
+title: "The Greek verb"
+parent: "Main sections of course"
+layout: page
+nav_order: 1
+has_children: true
+---
+
+
+# The Greek verb
+
+
+## Week at a glance: Aug. 30 - Sept. 1
+
+### Overview
+
+- Preliminaries to the Greek language: introduction to the alphabet and accent system
+
+### MWF classes
+
+- Wednesday: the [alphabet](../../classes/module1/intro/)
+- Friday: [accent](../../classes/module1/accent/). Written assignment should be completed before coming to class. Please write legibly in dark pencil, and *skip lines* between answers.
+
+
+### CBL
+
+No CBL meetings this week.
