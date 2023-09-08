@@ -7,7 +7,18 @@ nav_order: 10
 ---
 
 
-# The second aorist
+# Translation; and the second aorist
+
+
+## Orientation to Lysias 1
+
+Read the two translation of Lysias, *Oration 1*, available on line [here](https://hellenike.github.io/textbook/reference/).
+
+How do the two translations differ?  Are there passages where they seem to contradict each other? Even if they don't directly conflict with each other, do they suggest a different understanding of the Greek text?  Try to identify specific passages to illustrate differences between the two translations, and think about how the differences you've identified could both result from the same Greek source.
+
+
+
+## The second aorist
 
 In your textbook, read section 4.12, "The second aorist"  (online [here](https://hellenike.github.io/textbook/topics/module1/aorist2/)).
 
