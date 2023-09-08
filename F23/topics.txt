@@ -13,9 +13,8 @@
 
 
 
-
-✏️ [Contract verbs](../classes/module1/contracts/)
 ✏️ The [second aorist](../classes/module1/aorist2/)
+✏️ [Contract verbs](../classes/module1/contracts/)
 Review of verb forms
 
 

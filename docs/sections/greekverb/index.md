@@ -25,3 +25,23 @@ has_children: true
 ### CBL
 
 No CBL meetings this week.
+
+
+
+## Week at a glance: Sept. 4 - 8
+
+### Overview
+
+- We learn two ways to talk about events in the past: the *aorist* and the *imperfect* tenses.
+
+
+### MWF classes
+
+- [Monday](../../classes/module1/aorist/): the aorist tense
+- [Wednesday](../../classes/module1/aorist-review/).  Complete [this Google form](https://forms.gle/jE8tmgb8vpU54nbZ6).
+- [Friday](../../classes/module1/imperfect/): the imperfect tense
+
+
+### CBL
+
+- Initial CBL meetings: meet your TA, orientation to CBL work

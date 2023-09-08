@@ -7,7 +7,7 @@ has_children: true
 
 # What used to be new: older announcements
 
-
+- Homework for **Monday, Sept. 11** will include reading all of Lysias 1 in two different translations (both available [here](https://hellenike.github.io/textbook/reference/)).  Feel free to get a head start!
 - **Sept. 6**: you should have received an email scheduling your CBL visit to the WAM next week. Please **complete the CBL registration form as soon as possible**.
 - **Sept. 4**: New [resources and tips](../resources/) pages adds links to off-site resources.  As the semester progresses, we'll add review material and other material to help you review.
 - **Sept. 4**:  Updated textbook for F23 now available. (Use links at the top of all pages on this site to read on the web or to download a complete PDF. Hard copy will be distributed in class *gratis*, courtesy of the Classics Department.)
