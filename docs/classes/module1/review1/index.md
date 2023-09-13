@@ -12,7 +12,7 @@ nav_order: 8
 ## Things to memorize
 
 - How to form **all six** parts of a regular verb
-- First, third and sixth principal of verbs in module 1 vocabulary list
+- First, third and sixth principal of verbs in module 1 vocabulary list (textbook pg. 17)
 - Endings of the aorist and imperfect tenses in the thir person singular and plural
 
 

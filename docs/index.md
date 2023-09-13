@@ -11,6 +11,7 @@ nav_order: 0
 
 ## Announcements and reminders
 
+- Regular review and practice with peer tutors begins this week: Sunday, 4:00-5:00, Fenwick 420
 - **Deadlines for revising written homework**:
     - homework 2, the aorist: **Friday Sept. 15**.
     - homework 3, imperfect: **Tuesday, Sept. 19**
