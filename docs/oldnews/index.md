@@ -7,6 +7,10 @@ has_children: true
 
 # What used to be new: older announcements
 
+
+
+- **Deadlines for revising written homework**:
+    - homework 1, accent: **Friday Sept. 8**.  
 - Homework for **Monday, Sept. 11** will include reading all of Lysias 1 in two different translations (both available [here](https://hellenike.github.io/textbook/reference/)).  Feel free to get a head start!
 - **Sept. 6**: you should have received an email scheduling your CBL visit to the WAM next week. Please **complete the CBL registration form as soon as possible**.
 - **Sept. 4**: New [resources and tips](../resources/) pages adds links to off-site resources.  As the semester progresses, we'll add review material and other material to help you review.
