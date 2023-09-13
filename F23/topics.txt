@@ -18,10 +18,10 @@
 Review of verb forms
 
 
+
+
+Workshop:  mastery 1
 [Workshop](../classes/module1/reading1/): reading assignment 1
-
-Subjects, verbs, objects: [word order](../classes/module1/wordorder/) and translation
-
 [Workshop](../classes/module1/composition1/): composition 1
 
 
@@ -30,6 +30,7 @@ Subjects, verbs, objects: [word order](../classes/module1/wordorder/) and transl
 
 ## Module 2: nouns and adjectives
 
+Subjects, verbs, objects: [word order](../classes/module1/wordorder/) and translation
 ✏️ [substantives](../classes/module2/nouns/) and the article
 ✏️ the [genitive](../classes/module2/genitive/) case
 demonstrative [pronouns](../classes/module2/pronouns/) and adjectives: nominative and genitive cases
@@ -38,21 +39,21 @@ demonstrative [pronouns](../classes/module2/pronouns/) and adjectives: nominativ
 
 ✏️ [Direct and indirect objects](../classes/module2/dir-indir-objects/)
 ✏️ [prepositions](../classes/module2/prepositions/)
+
+
+
+
+***fall break***
+***fall break***
+***fall break***
+
 ✏️ demonstrative [pronouns](../classes/module2/pronouns/)  and adjectives
-
-
-
-***fall break***
-***fall break***
-***fall break***
-
-
 Ancient views of grammatical [gender](../classes/module2/gender/)
 Analyzing [clauses](../classes/module2/clauses/)
 Reading [workshop](../classes/module2/reading2/)
 
 
-Reviewing substantive forms
+
 Composition [workshop](../classes/module2/composition2/)
 Conceptual background to participles
 

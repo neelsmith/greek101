@@ -12,8 +12,8 @@ has_children: true
 
 ### Module 1: the Greek verb
 
-- [mastery exercise](https://hellenike.github.io/textbook/practice/module1/portfolio/mastery/): Sep 13
-- [reading](https://hellenike.github.io/textbook/practice/module1/portfolio/reading/): Sep 20 
+- [mastery exercise](https://hellenike.github.io/textbook/practice/module1/portfolio/mastery/): Sep 20
+- [reading](https://hellenike.github.io/textbook/practice/module1/portfolio/reading/): Sep 22 
 - [composition](https://hellenike.github.io/textbook/practice/module1/portfolio/composition/): Sep 25
 
 
