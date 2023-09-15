@@ -75,4 +75,4 @@ Third person singular (singular, plural):
 
 ## Written assignment
 
-Please complete [this assignment](https://hellenike.github.io/textbook/practice/module1/portfolio/mastery/)
+Please submit [this assignment](https://hellenike.github.io/textbook/practice/module1/portfolio/mastery/) by *Wed. Sept. 20**.
