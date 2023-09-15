@@ -19,7 +19,7 @@ nav_order: 0
     - homework 5, contract verbs: **Friday, Sept. 22**
 - **Deadlines for module 1 portfolio assignments**: 
     - language mastery exercise: **Wednesday, Sept. 20**
-    - reading: **Friday, Sept. 20**
+    - reading: **Friday, Sept. 22**
     - composition: **Monday, Sept. 25**
 - Vocabulary list we'll cover in module 1 is [online here](https://hellenike.github.io/textbook/review/module1-review/vocabulary/): you'll need it for Monday's homework!  (This will be easier when our printed textbooks arrive.)
 
