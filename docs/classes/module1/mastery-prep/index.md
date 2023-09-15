@@ -11,6 +11,17 @@ nav_order: 11
 
 ## Review material
 
+## Principal parts
+
+Be sure you can form *all six* principal  parts of regular verbs, and know what principal part you use for each tense-voice combination. 
+
+παύω, "to stop" (transitive and intransitive).  The stem is highlighted.
+
+| 1 | 2 | 3 | 4 | 5 | 6 |
+| --- | --- | --- | --- | --- | --- |
+| simple stem | stem + σ |  augment + stem + σ | reduplication + stem + κ | reduiplication + stem | augment + stem + θ | 
+| **παύ**ω | **παύσ**ω | **ἔπαυσ**α | **πέπαυκ**α | **πέπαυ**μαι | **ἐπαύθ**ην | 
+
 ## Endings to memorize
 
 Be sure you have memorized these endings.
