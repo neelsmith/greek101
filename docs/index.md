@@ -53,6 +53,6 @@ We devote our class time to workshopping module 1 portfolio assignents
 
 ### MWF classes
 
-- Monday: workshop on language mastery assignment
-- Wednesday: workshop on reading and translation assignment
+- Monday: workshop on [language mastery assignment](./classes/module1/mastery-prep/)
+- Wednesday: workshop on [reading and translation assignment](https://hellenike.github.io/textbook/practice/module1/portfolio/reading/)
 - Friday: workshop on composition assignment
