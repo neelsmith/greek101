@@ -11,11 +11,7 @@ nav_order: 0
 
 ## Announcements and reminders
 
-- Regular review and practice with peer tutors begins this week: Sunday, 4:00-5:00, Fenwick 420
 - **Deadlines for revising written homework**:
-    - homework 2, the aorist: **Friday Sept. 15**.
-    - homework 3, imperfect: **Tuesday, Sept. 19**
-    - homework 4, second aorist: **Tuesday, Sept. 19**
     - homework 5, contract verbs: **Friday, Sept. 22**
 - **Deadlines for module 1 portfolio assignments**: 
     - language mastery exercise: **Wednesday, Sept. 20**
@@ -55,4 +51,4 @@ We devote our class time to workshopping module 1 portfolio assignents
 
 - Monday: workshop on [language mastery assignment](./classes/module1/mastery-prep/)
 - Wednesday: workshop on [reading and translation assignment](https://hellenike.github.io/textbook/practice/module1/portfolio/reading/)
-- Friday: workshop on composition assignment
+- Friday: workshop on [composition assignment](https://hellenike.github.io/textbook/practice/module1/portfolio/composition/)
