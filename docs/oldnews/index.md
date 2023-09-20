@@ -9,8 +9,12 @@ has_children: true
 
 
 
+- Regular review and practice with peer tutors begins this week: Sunday, 4:00-5:00, Fenwick 420
 - **Deadlines for revising written homework**:
-    - homework 1, accent: **Friday Sept. 8**.  
+    - homework 1, accent: **Friday Sept. 8**. 
+    - homework 2, the aorist: **Friday Sept. 15**.
+    - homework 3, imperfect: **Tuesday, Sept. 19**
+    - homework 4, second aorist: **Tuesday, Sept. 19** 
 - Homework for **Monday, Sept. 11** will include reading all of Lysias 1 in two different translations (both available [here](https://hellenike.github.io/textbook/reference/)).  Feel free to get a head start!
 - **Sept. 6**: you should have received an email scheduling your CBL visit to the WAM next week. Please **complete the CBL registration form as soon as possible**.
 - **Sept. 4**: New [resources and tips](../resources/) pages adds links to off-site resources.  As the semester progresses, we'll add review material and other material to help you review.
