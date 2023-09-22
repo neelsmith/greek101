@@ -11,44 +11,38 @@ nav_order: 0
 
 ## Announcements and reminders
 
-- **Deadlines for revising written homework**:
-    - homework 5, contract verbs: **Friday, Sept. 22**
+- **Check-in on forms from module 1**: Wednesday, Sept. 27.
+    - for a perfectly regular verb, create all six principal parts
+    - given a verb's principal parts, generate forms of the imperfect and aorist in third singular and third plural forms
+    - identify imperfect and aorist forms of verbs in module 1 vocabulary list
 - **Deadlines for module 1 portfolio assignments**: 
-    - language mastery exercise: **Wednesday, Sept. 20**
-    - reading: **Friday, Sept. 22**
-    - composition: **Monday, Sept. 25**
-- Vocabulary list we'll cover in module 1 is [online here](https://hellenike.github.io/textbook/review/module1-review/vocabulary/): you'll need it for Monday's homework!  (This will be easier when our printed textbooks arrive.)
+    - language mastery exercise: **Wednesday, Sept. 20**. Revisions accepted until Friday, Sept. 29
+    - reading: **Friday, Sept. 22**. Revisions accepted until Monday, Oct. 2.
+    - composition: **Monday, Sept. 25**. Revisions accepted until Wednesday, Octe. 4.
+- Vocabulary list we'll cover in module 1 is on page 17 of your textbook, or [online here](https://hellenike.github.io/textbook/review/module1-review/vocabulary/): you'll need it for Monday's homework!  (This will be easier when our printed textbooks arrive.)
 
 
 ## Module 1: the Greek verb
 
 We will devote much of September to an introduction to the Greek verbal system, culminating in portfolio assignments on translation and composition the week of Sept. 18-22.
 
-## Week at a glance: Sept. 11 - 15
+
+
+
+
+## Week at a glance: Sept. 25 - 29
 
 ### Overview
 
-We complete our introduction to the imperfect and aorist with  
+- We review our introduction to the Greek verb, and introduce module 2: nouns in Greek
+
 
 ### MWF classes
 
-- [Monday](./classes/module1/aorist2/): the second aorist
-- [Wednesday](./classes/module1/contracts/): contract verbs
-- [Friday](./classes/module1/review1/): review of the imperfect and aorist
+- Monday: review module 1 and practice for verb check-in on Wednesday
+- Wednesday: introduction to nouns
+- Friday
 
 ### CBL
 
-- docent tours at WAM instead of regular CBL lab
-
-
-## Week at a glance: Sept. 18 - 22
-
-### Overview
-
-We devote our class time to workshopping module 1 portfolio assignents
-
-### MWF classes
-
-- Monday: workshop on [language mastery assignment](./classes/module1/mastery-prep/)
-- Wednesday: workshop on [reading and translation assignment](https://hellenike.github.io/textbook/practice/module1/portfolio/reading/)
-- Friday: workshop on [composition assignment](https://hellenike.github.io/textbook/practice/module1/portfolio/composition/)
+- Meet at regular times.
