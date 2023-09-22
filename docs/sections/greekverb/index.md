@@ -45,3 +45,36 @@ No CBL meetings this week.
 ### CBL
 
 - Initial CBL meetings: meet your TA, orientation to CBL work
+
+
+
+## Week at a glance: Sept. 11 - 15
+
+### Overview
+
+We complete our introduction to the imperfect and aorist with  
+
+### MWF classes
+
+- [Monday](../../classes/module1/aorist2/): the second aorist
+- [Wednesday](../../classes/module1/contracts/): contract verbs
+- [Friday](../../classes/module1/review1/): review of the imperfect and aorist
+
+### CBL
+
+- docent tours at WAM instead of regular CBL lab
+
+
+
+
+## Week at a glance: Sept. 18 - 22
+
+### Overview
+
+We devote our class time to workshopping module 1 portfolio assignents
+
+### MWF classes
+
+- Monday: workshop on [language mastery assignment](./classes/module1/mastery-prep/)
+- Wednesday: workshop on [reading and translation assignment](https://hellenike.github.io/textbook/practice/module1/portfolio/reading/)
+- Friday: workshop on [composition assignment](https://hellenike.github.io/textbook/practice/module1/portfolio/composition/)
