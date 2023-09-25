@@ -11,6 +11,7 @@ nav_order: 0
 
 ## Announcements and reminders
 
+- No drop-in hours this Wednesday (Sept. 27)
 - **Check-in on forms from module 1**: Wednesday, Sept. 27.
     - for a perfectly regular verb, create all six principal parts
     - given a verb's principal parts, generate forms of the imperfect and aorist in third singular and third plural forms
