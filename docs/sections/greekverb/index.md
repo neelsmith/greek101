@@ -9,6 +9,9 @@ has_children: true
 
 # The Greek verb
 
+We will devote much of September to an introduction to the Greek verbal system, culminating in portfolio assignments on translation and composition the week of Sept. 18-22.
+
+
 
 ## Week at a glance: Aug. 30 - Sept. 1
 

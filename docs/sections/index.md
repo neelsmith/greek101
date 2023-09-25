@@ -10,5 +10,5 @@ has_children: true
 
 
 - Module 1: [the Greek verb](./greekverb/)
-- Module 2: nouns and adjectives
+- Module 2: [nouns and adjectives](./noun/)
 - Module 3: the participle
