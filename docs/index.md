@@ -21,12 +21,9 @@ nav_order: 0
     - composition: **Monday, Sept. 25**. Revisions accepted until Wednesday, Octe. 4.
 - Vocabulary list we'll cover in module 1 is on page 17 of your textbook, or [online here](https://hellenike.github.io/textbook/review/module1-review/vocabulary/): you'll need it for Monday's homework!  (This will be easier when our printed textbooks arrive.)
 
+## Module 2: nouns and adjectives
 
-## Module 1: the Greek verb
-
-We will devote much of September to an introduction to the Greek verbal system, culminating in portfolio assignments on translation and composition the week of Sept. 18-22.
-
-
+In the second module of the semester, we will learn about *substantives*:  nouns, adjectives, pronouns and the important Greek definite article.  At the the completion of this module, will be able to read complete clauses and sentences.
 
 
 
@@ -40,9 +37,9 @@ We will devote much of September to an introduction to the Greek verbal system, 
 ### MWF classes
 
 - Monday: review module 1 and practice for verb check-in on Wednesday
-- Wednesday: introduction to nouns
-- Friday
+- Wednesday: introduction to [substantives](./classes/module2/nouns/): nouns and the article
+- Friday: the [genitive case](./classes/module2/genitive/)
 
 ### CBL
 
-- Meet at regular times.
+- Meet at regular times: prepare for visit next week from Dr. Colleen Kelly
