@@ -27,20 +27,13 @@ nav_order: 0
 In the second module of the semester, we will learn about *substantives*:  nouns, adjectives, pronouns and the important Greek definite article.  At the the completion of this module, will be able to read complete clauses and sentences.
 
 
-
-## Week at a glance: Sept. 25 - 29
-
-### Overview
-
-- We review our introduction to the Greek verb, and introduce module 2: nouns in Greek
+## Week at a glance: Oct. 2 - 6
 
 
-### MWF classes
-
-- Monday: review module 1 and practice for verb check-in on Wednesday
-- Wednesday: introduction to [substantives](./classes/module2/nouns/): nouns and the article
-- Friday: the [genitive case](./classes/module2/genitive/)
+- Monday: review of the definite article; introduction to the adjective, and to all cases of the Greek noun
+- Wednesday: [direct and indirect objects](./classes/module2/dir-indir-objects/)
+- Friday: [prepositions](./classes/module2/prepositions/)
 
 ### CBL
 
-- Meet at regular times: prepare for visit next week from Dr. Colleen Kelly
+- Meet with Dr. Colleen Kelly
