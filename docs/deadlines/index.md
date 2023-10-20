@@ -19,9 +19,9 @@ has_children: true
 
 ### Module 2: nouns and adjectives
 
-- mastery exercise: Oct 18,
-- reading: Oct 20 
-- composition: Oct 25
+- mastery exercise: Oct. 23
+- reading: Oct 25
+- composition: Oct 27
 
 ### Module 3: participles
 

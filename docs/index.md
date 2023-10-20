@@ -11,13 +11,25 @@ nav_order: 0
 
 ## Announcements and reminders
 
-Welcome back from fall break!
+
+**Due dates** for portfolio exercises for module 2:
+
+- [mastery exercise](https://hellenike.github.io/textbook/practice/module2/portfolio/mastery/): Oct. 23
+- [reading](https://hellenike.github.io/textbook/practice/module2/portfolio/reading/): Oct 25
+- [composition](https://hellenike.github.io/textbook/practice/module2/portfolio/composition/): Oct 27
+
 
 ## Module 2: nouns and adjectives
 
 In the second module of the semester, we will learn about *substantives*:  nouns, adjectives, pronouns and the important Greek definite article.  At the the completion of this module, will be able to read complete clauses and sentences.
 
 
+
+## Week at a glance: Oct. 23 - 27
+
+- Monday: workshop draft of module 2 [reading](https://hellenike.github.io/textbook/practice/module2/portfolio/reading/)
+- Wednesday: workshop draft of module 2 [composition](https://hellenike.github.io/textbook/practice/module2/portfolio/composition/)
+- Friday: interpreting grammatical gender 
 
 
 ## Week at a glance: Oct. 16 - 20
