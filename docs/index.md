@@ -25,8 +25,8 @@ nav_order: 0
 ## Week at a glance: Oct. 31 - Nov. 3
 
 - Monday: [introduction to participles](./classes/module3/participles/)
-- Wednesday
-- Friday
+- Wednesday: the [The present and second aorist participles](./classes/module3/secondaorist/)
+- Friday: [attributive participles](./classes/module3/attributive/)
 
 
 
