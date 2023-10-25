@@ -19,9 +19,22 @@ nav_order: 0
 - [composition](https://hellenike.github.io/textbook/practice/module2/portfolio/composition/): Oct 27
 
 
+## Module 3: participles
+
+
+## Week at a glance: Oct. 31 - Nov. 3
+
+- Monday: [introduction to participles](./classes/module3/participles/)
+- Wednesday: the [The present and second aorist participles](./classes/module3/secondaorist/)
+- Friday: [attributive participles](./classes/module3/attributive/)
+
+
+
+
 ## Module 2: nouns and adjectives
 
 In the second module of the semester, we will learn about *substantives*:  nouns, adjectives, pronouns and the important Greek definite article.  At the the completion of this module, will be able to read complete clauses and sentences.
+
 
 
 
@@ -29,11 +42,4 @@ In the second module of the semester, we will learn about *substantives*:  nouns
 
 - Monday: workshop draft of module 2 [reading](https://hellenike.github.io/textbook/practice/module2/portfolio/reading/)
 - Wednesday: workshop draft of module 2 [composition](https://hellenike.github.io/textbook/practice/module2/portfolio/composition/)
-- Friday: interpreting grammatical gender 
-
-
-## Week at a glance: Oct. 16 - 20
-
-- Monday: review nouns, adjectives and the article
-- Wednesday: [pronouns](./classes/module2/pronouns/)
-- Friday: [module 2 mastery assignment](./classes/module2/portfolio-mastery/)
+- Friday: [interpreting grammatical gender](./classes/module2/gender/)
