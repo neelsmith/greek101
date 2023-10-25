@@ -22,10 +22,13 @@ nav_order: 0
 ## Module 3: participles
 
 
+In the final module of the fall semester, we will learn about one of the most distinctive features of the Greek language, *participles*.  Participles are the most common form of *subordination* in Greek.  At the completion of this module, you will be able to read extensive passages of Greek with complete sentences using participles to express subordinate verbal ideas.
+
+
 ## Week at a glance: Oct. 31 - Nov. 3
 
-- Monday: [introduction to participles](./classes/module3/participles/)
-- Wednesday: the [The present and second aorist participles](./classes/module3/secondaorist/)
+- Monday: [introduction to participles](./classes/module3/participles/), and formation of the first aorist participle
+- Wednesday: the [present and second aorist participles](./classes/module3/secondaorist/): formation and meaning of tenses
 - Friday: [attributive participles](./classes/module3/attributive/)
 
 
@@ -33,7 +36,7 @@ nav_order: 0
 
 ## Module 2: nouns and adjectives
 
-In the second module of the semester, we will learn about *substantives*:  nouns, adjectives, pronouns and the important Greek definite article.  At the the completion of this module, will be able to read complete clauses and sentences.
+In the second module of the semester, we will learn about *substantives*:  nouns, adjectives, pronouns and the important Greek definite article.  At the the completion of this module, you will be able to read complete clauses and sentences.
 
 
 
