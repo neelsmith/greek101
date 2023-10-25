@@ -11,6 +11,13 @@ has_children: true
 
 
 
+
+## Week at a glance: Oct. 16 - 20
+
+- Monday: review nouns, adjectives and the article
+- Wednesday: [pronouns](./classes/module2/pronouns/)
+- Friday: [module 2 mastery assignment](./classes/module2/portfolio-mastery/)
+
 ## Week at a glance: Oct. 9 - 13
 
 *Fall break*
@@ -39,3 +46,4 @@ has_children: true
 ### CBL
 
 - Meet at regular times: prepare for visit next week from Dr. Colleen Kelly
+
