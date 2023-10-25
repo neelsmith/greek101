@@ -12,7 +12,10 @@ nav_order: 0
 ## Announcements and reminders
 
 
-**Due dates** for portfolio exercises for module 2:
+
+
+**Due dates for revisions** of all module 2 material will be posted on Friday, Oct. 27
+**Due dates for portfolio exercises** for module 2:
 
 - [mastery exercise](https://hellenike.github.io/textbook/practice/module2/portfolio/mastery/): Oct. 23
 - [reading](https://hellenike.github.io/textbook/practice/module2/portfolio/reading/): Oct 25
