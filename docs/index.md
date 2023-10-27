@@ -16,7 +16,7 @@ nav_order: 0
 - module 2 homework assignments:  Friday, Nov. 3
 - module 2 portfolio assignments: Friday, Nov. 10
 
-**Due dates for portfolio exercises** for module 2:
+**Due dates for initial submission of portfolio exercises** for module 2:
 
 - [mastery exercise](https://hellenike.github.io/textbook/practice/module2/portfolio/mastery/): Oct. 23
 - [reading](https://hellenike.github.io/textbook/practice/module2/portfolio/reading/): Oct 25
