@@ -9,7 +9,14 @@ has_children: true
 
 ## Nouns and adjectives
 
+In the second module of the semester, we will learn about *substantives*:  nouns, adjectives, pronouns and the important Greek definite article.  At the the completion of this module, you will be able to read complete clauses and sentences.
 
+
+## Week at a glance: Oct. 23 - 27
+
+- Monday: workshop draft of module 2 [reading](https://hellenike.github.io/textbook/practice/module2/portfolio/reading/)
+- Wednesday: workshop draft of module 2 [composition](https://hellenike.github.io/textbook/practice/module2/portfolio/composition/)
+- Friday: [interpreting grammatical gender](./classes/module2/gender/)
 
 
 ## Week at a glance: Oct. 16 - 20

@@ -14,13 +14,8 @@ nav_order: 0
 **Due dates for revisions**:
 
 - module 2 homework assignments:  Friday, Nov. 3
-- module 2 portfolio assignments: Friday, Nov. 10
+- module 2 portfolio assignments: Monday, Nov. 13
 
-**Due dates for initial submission of portfolio exercises** for module 2:
-
-- [mastery exercise](https://hellenike.github.io/textbook/practice/module2/portfolio/mastery/): Oct. 23
-- [reading](https://hellenike.github.io/textbook/practice/module2/portfolio/reading/): Oct 25
-- [composition](https://hellenike.github.io/textbook/practice/module2/portfolio/composition/): Oct 27
 
 
 **CBL sections meeting in WAM**: Nov. 1, 9, 15, and 17.  Be sure you know your assigned section.
@@ -43,15 +38,5 @@ In the final module of the fall semester, we will learn about one of the most di
 - **NB**: WAM sections begin on Wed., Nov. 1!
 
 
-## Module 2: nouns and adjectives
-
-In the second module of the semester, we will learn about *substantives*:  nouns, adjectives, pronouns and the important Greek definite article.  At the the completion of this module, you will be able to read complete clauses and sentences.
 
 
-
-
-## Week at a glance: Oct. 23 - 27
-
-- Monday: workshop draft of module 2 [reading](https://hellenike.github.io/textbook/practice/module2/portfolio/reading/)
-- Wednesday: workshop draft of module 2 [composition](https://hellenike.github.io/textbook/practice/module2/portfolio/composition/)
-- Friday: [interpreting grammatical gender](./classes/module2/gender/)
