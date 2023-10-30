@@ -29,7 +29,7 @@ In the final module of the fall semester, we will learn about one of the most di
 ## Week at a glance: Oct. 30 - Nov. 3
 
 - Monday: [introduction to participles](./classes/module3/participles/), and formation of the first aorist participle
-- Wednesday: the [present and second aorist participles](./classes/module3/secondaorist/): formation and meaning of tenses. **NB: class will end 10 minutes today.** Please make an extra effort to be ready to start class on time at 9:00.
+- Wednesday: the [present and second aorist participles](./classes/module3/secondaorist/): formation and meaning of tenses. **NB: class will end 10 minutes early today.** Please make an extra effort to be ready to start class on time at 9:00.
 - Friday: [attributive participles](./classes/module3/attributive/)
 
 ### CBL
