@@ -8,6 +8,13 @@ has_children: true
 # What used to be new: older announcements
 
 
+
+**Due dates for initial submission of portfolio exercises** for module 2:
+
+- [mastery exercise](https://hellenike.github.io/textbook/practice/module2/portfolio/mastery/): Oct. 23
+- [reading](https://hellenike.github.io/textbook/practice/module2/portfolio/reading/): Oct 25
+- [composition](https://hellenike.github.io/textbook/practice/module2/portfolio/composition/): Oct 27
+
 - No drop-in hours this Wednesday (Sept. 27)
 - **Check-in on forms from module 1**: Wednesday, Sept. 27.
     - for a perfectly regular verb, create all six principal parts
