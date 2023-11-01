@@ -16,14 +16,15 @@ In the second module of the semester, we will learn about *substantives*:  nouns
 
 - Monday: workshop draft of module 2 [reading](https://hellenike.github.io/textbook/practice/module2/portfolio/reading/)
 - Wednesday: workshop draft of module 2 [composition](https://hellenike.github.io/textbook/practice/module2/portfolio/composition/)
-- Friday: [interpreting grammatical gender](./classes/module2/gender/)
+- Friday: [interpreting grammatical gender](../../classes/module2/gender/)
+
 
 
 ## Week at a glance: Oct. 16 - 20
 
 - Monday: review nouns, adjectives and the article
-- Wednesday: [pronouns](./classes/module2/pronouns/)
-- Friday: [module 2 mastery assignment](./classes/module2/portfolio-mastery/)
+- Wednesday: [pronouns](../../classes/module2/pronouns/)
+- Friday: [module 2 mastery assignment](../../classes/module2/portfolio-mastery/)
 
 ## Week at a glance: Oct. 9 - 13
 
