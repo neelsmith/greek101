@@ -26,6 +26,15 @@ nav_order: 0
 In the final module of the fall semester, we will learn about one of the most distinctive features of the Greek language, *participles*.  Participles are the most common form of *subordination* in Greek.  At the completion of this module, you will be able to read extensive passages of Greek with complete sentences using participles to express subordinate verbal ideas.
 
 
+
+
+## Week at a glance: Nov. 6 - Nov. 10
+
+- Monday: the [circumstantial participle](./classes/module3/circumstantial/)
+- Wednesday: [participles of contract verbs](./classes/module3/contracts/)
+- Friday: review of participle forms
+
+
 ## Week at a glance: Oct. 30 - Nov. 3
 
 - Monday: [introduction to participles](./classes/module3/participles/), and formation of the first aorist participle
