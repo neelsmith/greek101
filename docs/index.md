@@ -11,11 +11,16 @@ nav_order: 0
 
 ## Announcements and reminders
 
-**Due dates for revisions**:
+**Due dates for module 3 portfolio assignments**:
 
-- module 2 homework assignments:  Friday, Nov. 3
-- module 2 portfolio assignments: Monday, Nov. 13
+- mastery of forms: Fri. Nov. 17
+- reading: Mon. Nov. 20
+- composition: TBA
 
+**Due dates for module 2 revisions**:
+
+- module 2 homework assignments:  TBA
+- module 2 portfolio assignments: TBA
 
 
 **CBL sections meeting in WAM**: Nov. 1, 9, 15, and 17.  Be sure you know your assigned section.
@@ -24,6 +29,20 @@ nav_order: 0
 
 
 In the final module of the fall semester, we will learn about one of the most distinctive features of the Greek language, *participles*.  Participles are the most common form of *subordination* in Greek.  At the completion of this module, you will be able to read extensive passages of Greek with complete sentences using participles to express subordinate verbal ideas.
+
+
+
+## Week at a glance: Nov. 20 - Nov. 24
+
+- Monday: Module 3 review, revision
+- Wednesday, Friday: *Thanksgiving break*
+
+
+## Week at a glance: Nov. 13 - Nov. 17
+
+- Monday: [participles of contract verbs](./classes/module3/contracts/)
+- Wednesday: workshop portfolio: [mastery of forms](https://hellenike.github.io/textbook/practice/module3/portfolio/mastery/) (Complete assignment to review in class, and submit assignment for grading on Friday)
+- Friday: workshop portfolio assignment: [reading](https://hellenike.github.io/textbook/practice/module3/portfolio/reading/) (Complete assignment to review in class, submit for grading on Monday)
 
 
 
