@@ -9,6 +9,11 @@ has_children: true
 
 
 
+
+**CBL sections meeting in WAM**: Nov. 1, 9, 15, and 17.  Be sure you know your assigned section.
+
+
+
 **Due dates for initial submission of portfolio exercises** for module 2:
 
 - [mastery exercise](https://hellenike.github.io/textbook/practice/module2/portfolio/mastery/): Oct. 23
