@@ -49,4 +49,4 @@ In the final module of the fall semester, we will learn about one of the most di
 
 - Monday: prepare written draft of module 3 [mastery of forms](https://hellenike.github.io/textbook/practice/module3/portfolio/mastery)
 - Wednesday: prepare written draft of module 3 [reading and translation](https://hellenike.github.io/textbook/practice/module3/portfolio/reading/)
-- Friday: prepare written draft of module 3 composition
+- Friday: prepare written draft of module 3 [composition](https://hellenike.github.io/textbook/practice/module3/portfolio/composition/)
